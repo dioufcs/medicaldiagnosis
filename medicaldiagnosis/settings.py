@@ -103,7 +103,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/2.1/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'fr-FR'
 
 TIME_ZONE = 'UTC'
 
@@ -119,7 +119,10 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-#setting to specify the route once a user has logged in/logged out
+
+#settings to specify the route once a user has logged in/logged out
 LOGIN_REDIRECT_URL = 'home'
 LOGOUT_REDIRECT_URL = 'home'
 
+
+STATICFILES_DIRS = [(os.path.join(BASE_DIR, "static"))]
