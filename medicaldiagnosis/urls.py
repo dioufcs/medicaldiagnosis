@@ -21,6 +21,11 @@ from django.views.generic.base import TemplateView
 from django.conf.urls.static import static
 
 urlpatterns = [
+
+    #Section CSD
+    path('dashboard/', include('dashboard.urls')),
+    #Fin section CSD
+
 	path('home', views.home_view, name='home'),
     path('admin/', admin.site.urls),
     path('login/', views.login_view, name='login'),
