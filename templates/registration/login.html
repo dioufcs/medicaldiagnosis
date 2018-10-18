@@ -4,14 +4,13 @@
 {% block title %}Login{% endblock %}
 
 {% block content %}
-<form method="post">
-  {% csrf_token %}
+ 
  
   <div class="limiter">
-  	{% load static %}
 		<div class="container-login100" style="background-image: url('/static/images/medical2.jpg');">
 			<div class="wrap-login100">
-				<form class="login100-form validate-form">
+				<form class="login100-form validate-form" method="post" action="{% url 'login' %}">
+					 {% csrf_token %}
 					<span class="login100-form-logo">
 						<i class="zmdi zmdi-landscape"></i>
 					</span>
@@ -26,25 +25,25 @@
 					</div>
 
 					<div class="wrap-input100 validate-input" data-validate="Enter password">
-						<input class="input100" type="password" name="pass" placeholder="Password">
+						<input class="input100" type="password" name="password" placeholder="Password">
 						<span class="focus-input100" data-placeholder="&#xf191;"></span>
 					</div>
 
 					<div class="contact100-form-checkbox">
-						<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
+						<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember_me">
 						<label class="label-checkbox100" for="ckb1">
 							Remember me
 						</label>
 					</div>
 
 					<div class="container-login100-form-btn">
-						<button class="login100-form-btn">
+						<button class="login100-form-btn" type="submit">
 							Login
 						</button>
 					</div>
 
 					<div class="text-center p-t-90">
-						<a class="txt1" href="#">
+						<a class="txt1" href="{% url 'reset' %}">
 							Forgot Password?
 						</a>
 					</div>
@@ -53,5 +52,4 @@
 		</div>
 	</div>
 
-</form>
 {% endblock %}
