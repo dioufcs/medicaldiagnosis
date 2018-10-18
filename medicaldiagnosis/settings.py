@@ -55,7 +55,7 @@ ROOT_URLCONF = 'medicaldiagnosis.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        'DIRS': [os.path.join(BASE_DIR, 'templates'),os.path.join(BASE_DIR, 'sent_emails')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -126,7 +126,12 @@ LOGIN_REDIRECT_URL = 'home'
 LOGOUT_REDIRECT_URL = 'home'
 
 #configure STMP server for sending email
-EMAIL_BACKEND = "django.core.mail.backends.filebased.EmailBackend"
+EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
+EMAIL_HOST = "smtp.gmail.com"
+EMAIL_HOST_USER = 'dic1.2016.2017@gmail.com'
+EMAIL_HOST_PASSWORD = 'dic120162017'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
 EMAIL_FILE_PATH = os.path.join(BASE_DIR, "sent_emails")
 
 STATICFILES_DIRS = [(os.path.join(BASE_DIR, "static"))]

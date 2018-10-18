@@ -65,14 +65,18 @@ def reset_password_view(request):
                 #if user_secret != secret:
                     #errorMessage = "Your secret key does not match"
                     #return render(request, 'registration/password_reset.html', {'errorMessage': errorMessage})
+            else:
                 password = User.objects.make_random_password()
-                msg_plain = render_to_string('sent_emails/password_reset.txt',
+                msg_plain = render_to_string('password_reset.txt',
                     {'username': user.username, "password": password})
+
+
                 try:
                     msg = EmailMessage(
                         'Request for resetting password',
                         msg_plain,
-                        to=[email],
+                        'dic1.2016.2017@gmail.com',
+                        [email],
                     )
                     msg.send()
                 except:
