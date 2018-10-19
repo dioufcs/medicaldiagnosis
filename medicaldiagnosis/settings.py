@@ -55,7 +55,9 @@ ROOT_URLCONF = 'medicaldiagnosis.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates'),os.path.join(BASE_DIR, 'sent_emails')],
+        'DIRS': [os.path.join(BASE_DIR, 'templates'),os.path.join(BASE_DIR, 'sent_emails'),
+        os.path.join(BASE_DIR, 'dashboard')
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -122,8 +124,8 @@ STATIC_URL = '/static/'
 
 
 #settings to specify the route once a user has logged in/logged out
-LOGIN_REDIRECT_URL = 'home'
-LOGOUT_REDIRECT_URL = 'home'
+LOGIN_REDIRECT_URL = '/dashboard'
+LOGOUT_REDIRECT_URL = '/login'
 
 #configure STMP server for sending email
 EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
