@@ -20,7 +20,7 @@ class Patient (Personne):
 	profession = models.CharField(max_length=20)
 	situationMatr = models.CharField(max_length=10)
 	assurance = models.CharField(max_length=10)
-	securiteSociale = models.IntegerField()
+	securiteSociale = models.CharField(max_length=13)
 
 class Consultation (models.Model):
 	date = models.DateField()
@@ -31,8 +31,8 @@ class Consultation (models.Model):
 	examenClinique = models.CharField(max_length=500)
 	diagnostic = models.CharField(max_length=100)
 
-	models.ForeignKey(Medecin, on_delete=models.CASCADE)
-	models.ForeignKey(Patient, on_delete=models.CASCADE)
+	models.ForeignKey(Medecin, on_delete=models.DO_NOTHING)
+	models.ForeignKey(Patient, on_delete=models.DO_NOTHING)
 
 class Antecedant (models.Model):
 	nature = models.CharField(max_length=15)
