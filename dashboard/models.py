@@ -40,3 +40,9 @@ class Antecedant (models.Model):
 	description = models.CharField(max_length=30, verbose_name="Description de l'année")
 	
 	models.ForeignKey(Patient, on_delete=models.CASCADE)
+
+class Maladie(models.Model):
+	nomMaladie = models.CharField(max_length=100, verbose_name="Nom")
+	description = models.TextField(verbose_name="Description")
+	symptomes = models.TextField(verbose_name="Symptôme(s)")
+		
