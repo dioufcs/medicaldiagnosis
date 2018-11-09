@@ -1,3 +1,9 @@
-from django.test import TestCase
+from django.test import TestCase, TransactionTestCase
+from .models import *
 
-# Create your tests here.
+
+class MaladieTestCase(TestCase):
+
+	def setUp(self):
+		maladie = Maladie (nomMaladie = "paludisme", description = "exemple maladie")
+		maladie.save()
