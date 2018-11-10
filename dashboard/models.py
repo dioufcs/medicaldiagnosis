@@ -1,6 +1,5 @@
 from django.db import models
 from django.contrib.auth.models import User
-from django.db.models.signals import m2m_changed
 
 #verbose_name permet de gérer l'affichage du champ (le label)
 class Personne (models.Model):
@@ -48,7 +47,7 @@ class Symptome (models.Model):
 	class Meta:
 		ordering = ('nomSymptome',) #Les résultats d'une requête devrait être rangé par ordre alphabétique
 
-class Maladie(models.Model):
+class Maladie(models.Model):	
 	nomMaladie = models.CharField(max_length=50, verbose_name="Nom", unique=True)
 	description = models.TextField(verbose_name="Description")
 
@@ -58,25 +57,9 @@ class Maladie(models.Model):
 		ordering = ('nomMaladie',)
 
 	def save(self):
+		from search.models import MedicalData
 		maladie = MedicalData(nomMaladie = self.nomMaladie)
 		maladie.save()
 		super().save()
 
 
-
-class MedicalData(models.Model):
-	nomMaladie = models.CharField(max_length=50, unique=True)
-	listeSymptomes = models.TextField(blank=True)
-
-
-def add_symptoms(sender, **kwargs):
-	if kwargs['action'] == "post_add":
-		instance = kwargs['instance']
-		maladie = MedicalData.objects.get(nomMaladie=instance.nomMaladie)
-		string = ""
-		for i in instance.symptomes.all():
-			string += i.nomSymptome+", "
-		maladie.listeSymptomes = string
-		maladie.save()
-
-m2m_changed.connect(add_symptoms, sender = Maladie.symptomes.through)

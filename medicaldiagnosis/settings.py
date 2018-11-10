@@ -32,12 +32,14 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'dashboard.apps.DashboardConfig',
+    'search.apps.SearchConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django_elasticsearch_dsl',
 ]
 
 MIDDLEWARE = [
@@ -131,6 +133,11 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+ELASTICSEARCH_DSL={
+    'default': {
+        'hosts': 'localhost:9200'
+    },
+}
 
 #settings to specify the route once a user has logged in/logged out
 LOGIN_REDIRECT_URL = '/dashboard'
