@@ -1,0 +1,1960 @@
+
+hand, foot and mouth disease
+A viral infectious disease that results_in infection located_in skin, has_material_basis_in Human coxsackievirus A16 or has_material_basis_in Human enterovirus 71, which are transmitted_by contaminated fomites, and transmitted_by contact with nose and throat secretions, saliva, blister fluid and stool of infected persons
+fever,poor appetite,malaise,sore throat,painful sores in the mouth,skin rash on the palms of the hands and soles of the feet
+
+bronchiolitis
+A lung disease that is an inflammation of the bronchioles, the smallest air passages of the lungs It is caused by viruses and bacteria
+cough,wheezing,shortness of breath,fever,nasal flaring in infants and bluish skin due to lack of oxygen
+
+hepatic tuberculosis
+A gastrointestinal tuberculosis that involves infection located_in liver, which results in the formation of tuberculous granulomas
+fever,anorexia,weight loss,abdominal pain and jaundice
+
+Ritter's disease
+A commensal bacterial infectious disease that is characterized by widespread erythema, peeling, and necrosis of the skin, that is caused by a toxin produced by a bacterium of the genus Staphylococcus (S aureus)
+fluid-filled blister formation,fever and irritability
+
+Murray Valley encephalitis
+A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Murray Valley encephalitis virus, which is transmitted_by Culex annulirostris mosquitoes
+fever,headache,nausea,vomiting,drowsiness,confusion,fitting,weakness
+
+tracheitis
+A tracheal disease which involves bacterial infection of the trachea often caused by Staphylococcus aureus and streptococci that follows a recent viral upper respiratory infection
+barking croup cough,loud squeaking noise while breathing,scratchy feeling in the throat,high fever,production of large amounts of pus-filled secretions
+
+ovine progressive interstitial pneumonia
+A viral infectious disease that results_in inflammation located_in lungs, has_material_basis_in Ovine progressive pneumonia virus, which is transmitted_by droplet spread of oronasal secretion, and transmitted_by ingestion of contaminated milk or colostrum
+coughing,bronchial exudate,depression,fever
+
+anal condylomata acuminata
+An anogenital venereal wart that results_in infection located_in skin of anus, has_material_basis_in human papillomaviruses (types 6 and 11), which are transmitted_by direct contact with the skin during anal sex with an infected partner
+anal warts
+
+candidal otitis externa
+A candidiasis that involves fungal infection of the outer ear canal caused by Candida species
+discharge,tinnitus,pruritus,a feeling of fullness in the ear resulting in scratching,further damage to the epidermis
+
+bubonic plague
+A plague that results_in infection located_in lymph node producing a bubo, which is an inflamed, necrotic, and hemorrhagic lymphoid tissue
+enlarged,tender lymph nodes,fever,chills and prostration
+
+poliovirus type I nonparalytic poliomyelitis
+A nonparalytic poliomyelitis that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, which is transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions
+fever,sore throat,headache,vomiting,fatigue,neck stiffness,muscle spasms
+
+sodoku disease
+A primary bacterial infectious disease that results_in infection, has_material_basis_in Spirillum minus, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat
+chills,relapsing fever,rash and joint pain
+
+leprosy
+A primary bacterial infectious disease that results_in infection located_in superficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa
+skin lesions,sensory loss,motor loss and eye damage
+
+Herpes simplex virus meningoencephalitis
+
+headache,lesions in the brain,cerebral hemorrhage
+
+Rubella virus arthritis
+A Rubella virus infectious disease that results_in infection located_in joint, has_material_basis_in Rubella virus, which is transmitted_by droplet spread of oronasal secretions from the infected person through coughing and sneezing, and transmitted_by congenital method
+joint pains
+
+measles
+A viral infectious disease that results_in infection located_in skin, has_material_basis_in Measles virus, which is transmitted_by contact with oronasal secretions, or semen of an infected person
+fever,cough,coryza,conjunctivitis,maculopapular,erythematous rash
+
+Histoplasma capsulatum pneumonia
+
+mediastinal lymphadenopathy,cough and chest pain
+
+Clostridium perfringens gastroenteritis
+A commensal Clostridium infectious disease that is caused by ingestion of food contaminated with Clostridium perfringens, which produces an enterotoxin that acts on the small intestine
+watery diarrhea,abdominal cramps,a severe decrease in blood pressure,abdominal expansion from gas
+
+seborrheic infantile dermatitis
+A seborrheic dermatitis that involves fungal infection of the scalp of recently born babies caused by Malassezia furfur It is occasionally linked to immune disorders
+thick,crusty,yellow or brown scales over the child's scalp
+
+severe acute respiratory syndrome
+A viral infectious disease that results_in infection located_in respiratory tract, has_material_basis_in SARS coronavirus (SARS-CoV), which is transmitted_by droplet spread of respiratory secretions, transmitted_by ingestion of contaminated food, or transmitted_by fomites
+fever,headache,body aches,dry cough,hypoxia
+
+epidemic typhus
+A typhus that has_material_basis_in Rickettsia prowazekii, which is transmitted_by human body louse (Pediculus humanus corporis)
+high fever,cough,rash,severe muscle pain,chills,falling blood pressure,stupor,sensitivity to light,delirium
+
+HIV leukoencephalopathy
+A HIV encephalopathy that results_in inflammation located_in white matter of neuraxis, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2
+weakness,paralysis,vision loss,impaired speech,cognitive deterioration
+
+Cogan syndrome
+
+fever,fatigue
+
+Sapovirus gastroenteritis
+A viral infectious disease that results_in inflammation located_in stomach and located_in intestine, has_material_basis_in Sapovirus, which is transmitted_by ingestion of contaminated food
+nausea,vomiting,abdominal pain,diarrhea
+
+herpetic vulvovaginitis
+
+fever,lymphadenopathy,lesions
+
+tinea barbae
+
+inflammatory kerion-like plaques,results_in_formation_of noninflammatory superficial perifollicular pustules
+
+lymphogranuloma venereum
+A commensal bacterial infectious disease that results_in infection located_in lymph nodes, has_material_basis_in Chlamydia trachomatis, which is transmitted_by sexual contact, and transmitted_by fomites
+inguinal lymphadenitis,abscesses in the groin area,lymphangitis
+
+Lyme disease
+A primary bacterial infectious disease that results_in infection, has_material_basis_in Borrelia burgdorferi, which is transmitted_by blacklegged tick (Ixodes scapularis) or transmitted_by western blacklegged tick (Ixodes pacificus) If left untreated, infection can spread to joints, the heart, and the nervous system
+fever,headache,fatigue,skin rash called erythema migrans
+
+Rift Valley fever
+A viral infectious disease that results_in infection, has_material_basis_in Rift Valley fever virus, which is transmitted_by Aedes mosquitoes The virus affects domestic animals (cattle, buffalo, sheep, goats, and camels) and humans
+jaundice,vomiting blood,passing blood in the feces,ecchymoses (caused by bleeding in the skin),bleeding from the nose or gums,menorrhagia and bleeding from venepuncture sites
+
+rickettsialpox
+A spotted fever that has_material_basis_in Rickettsia akari, which is transmitted_by house mouse mite (Liponyssoides sanguineus) found on mice and other rodents
+fever,chills,headache,myalgia,papulovesicular rash
+
+Histoplasma duboisii pneumonia
+
+mediastinal lymphadenopathy,cough and chest pain
+
+Mumps virus orchitis
+A Mumps virus infectious disease that results_in inflammation located_in testis, has_material_basis_in Mumps virus, which is transmitted_by droplet spread of saliva or mucus from the mouth, nose, or throat of an infected person, or transmitted_by contaminated fomites
+groin pain,discharge from penis,scrotal swelling,blood in the semen
+
+Herpes simplex virus gingivostomatitis
+
+cold sores,bad breath,fever
+
+geniculate herpes zoster
+A viral infectious disease that results_in inflammation located_in facial nerve, which leads to paralysis of one side of the face, has_material_basis_in Human herpesvirus 3, which reactivates after appearing as chickenpox in childhood
+vesicular rash of the ear or mouth,tinnitus,vertigo,otalgia,headache
+
+epizootic hemorrhagic disease
+A viral infectious disease that results_in infection in deer, has_material_basis_in Epizootic hemorrhagic disease virus, which is transmitted_by Culicoides biting midges
+hemorrhages in many tissues including the skin,heart,gastrointestinal tract,ulcers of the tongue,dental pad,palate,rumen,omasum
+
+intestinal tuberculosis
+A gastrointestinal tuberculosis that involves diffuse mucosal fold thickening, formation of ulcers and fistulae located_in intestine
+abdominal pain,gastrointestinal bleeding,nausea and vomiting
+
+Crimean-Congo hemorrhagic fever
+A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Crimean-Congo hemorrhagic fever virus, which is transmitted_by Hyalomma ticks
+headache,high fever,back pain,joint pain,stomach pain,vomiting,red eyes,flushed face,red throat,petechiae (red spots) on the palate,jaundice,nosebleeds,blood in the feces and urine
+
+parenchymatous neurosyphilis
+A tertiary neurosyphilis that results when chronic meningoencephalitis causes destruction of cortical parenchyma
+irritability,difficulty concentrating,deterioration of memory,defective judgment,headaches,insomnia,fatigue,lethargy
+
+astrovirus gastroenteritis
+A viral infectious disease that results_in inflammation located_in stomach and located_in intestine, has_material_basis_in Human astrovirus, which is transmitted_by ingestion of contaminated food
+watery diarrhea,nausea,abdominal pain,vomiting,fever
+
+tinea unguium
+ Sometimes, white islands are seen on the external nail plates These gradually coalesce until the entire nail plate is involved
+thickening of subungueal area
+
+legionellosis
+A primary bacterial infectious disease that results_in infection located_in respiratory tract, has_material_basis_in Legionella pneumophila, which is transmitted_by inhalation of droplets containing bacteria
+dry cough,fever,headache,diarrhea
+
+rubella
+A viral infectious disease that results_in infection located_in skin, has_material_basis_in Rubella virus, which is transmitted_by droplet spread of oronasal secretions from the infected person through coughing and sneezing, and transmitted_by congenital method
+rash on the face which spreads to the trunk and limbs,fever,lymphadenopathy,joint pains,headache,conjunctivitis
+
+giardiasis
+A parasitic protozoa infectious disease that involves infection of the small intestine by a single-celled enteric protozoan parasite Giardia intestinalis
+greasy,malodorous stools,diarrhea,abdominal pain,bloating,nausea,vomiting
+
+infant botulism
+A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA or B) in infants, has_material_basis_in Clostridium botulinum A or has_material_basis_in Clostridium botulinum B, which are transmitted_by ingestion of bacterial spores, which then grow in the intestine and release toxins
+constipation,lethargy,difficulty feeding,swallowing,ptosis,loss of head control,muscle weakness
+
+endemic typhus
+A typhus that has_material_basis_in Rickettsia typhi or has_material_basis_in Rickettsia felis, which are transmitted_by fleas (Xenopsylla cheopis)
+headache,fever,chills,myalgia,nausea,vomiting,cough and rash
+
+infectious canine hepatitis
+A viral infectious disease that involves necrosis of the liver caused by Canine adenovirus 1 in dogs, wolves, coyotes and bears
+fever,leukopenia,apathy,anorexia,conjunctivitis,serous discharge from the eyes,nose,petechiae of the oral mucosa,subcutaneous edema of the head,neck,trunk,hematomas in the mouth,jaundice,hepatic encephalopathy
+
+pulmonary actinomycosis
+An actinomycosis that results_in infection, has_material_basis_in Actinomyces israelii or has_material_basis_in Actinomyces gerencseriae It results in lung cavities, lung nodules, and pleural effusion
+chest pain,cough with sputum,fever,lethargy,night sweats,shortness of breath,weight loss,draining of sinuses
+
+gastrointestinal tularemia
+A tularemia that results in formation of ulcerative lesions located_in gastrointestinal tract
+fever,chills,malaise,muscle aches,vomiting
+
+onychomycosis
+
+opaque nail,yellow-brown nail,crumbly nail that can separate from the nail bed
+
+late congenital syphilis
+A congenital syphilis that occurs in children at or greater than two years of age who acquired the infection trans-placentally
+gummatous ulcers,periosteal lesions,paresis,tabes,optic atrophy,interstitial keratitis,sensorineural deafness,dental deformities
+
+autism spectrum disorder
+A pervasive developmental disorder that is a spectrum of psychological conditions
+widespread abnormalities of social interactions and communication,severely restricted interests and highly repetitive behavior
+
+trichuriasis
+A parasitic helminthiasis infectious disease that involves parasitic infection located_in intestine in humans, has_material_basis_in Trichuris trichiura, which is transmitted_by ingestion of food contaminated with egg-carrying soil
+abdominal pain,diarrhea,rectal prolapse and growth retardation
+
+diphyllobothriasis
+A parasitic helminthiasis infectious disease that involves parasitic infection caused by Diphyllobothrium latum through the consumption of raw or undercooked fish
+abdominal discomfort,diarrhea,vomiting,weight loss,vitamin B12 deficiency with pernicious anemia
+
+astigmatism
+
+blurred vision
+
+cerebral toxoplasmosis
+A toxoplasmosis that occurs in patients with AIDS or weakened immune system, who develop the infection due to reactivation, present with ring-enhancing intracranial mass lesions or encephalitis
+headache,altered mental status,seizures,coma,fever,motor or sensory loss,cranial nerve palsies,visual abnormalities,focal seizures
+
+hypochondrogenesis
+An osteochondrodysplasia that has_material_basis_in a mutation in the COL2A1 gene which affects bone growth and results_in a small body, hydrops fetalis, and abnormal ossification located_in vertebral column or located_in pelvis
+enlarged abdomen
+
+Rocio virus encephalitis
+A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Rocio virus, which is transmitted_by Psorophora ferox and transmitted_by Aedes species of mosquitoes
+abdominal distension,confusion,motor impairment,difficulty in walking and maintaining balance,meningeal irritation,cerebellar syndrome
+
+urethral condylomata acuminata
+An anogenital venereal wart that results_in infection located_in skin of urethra, has_material_basis_in human papillomaviruses (types 6 and 11), which are transmitted_by direct sexual contact with the skin of an infected partner
+urethral warts
+
+Brazilian hemorrhagic fever
+A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Sabia virus, which is transmitted_by rodents
+fever,eye redness,fatigue,dizziness,muscle aches,loss of strength,bleeding under the skin,internal organs,or from body orifices like the mouth,eyes or ears
+
+candidal endocarditis
+A candidiasis that results_in inflammation located_in endocardium, has_material_basis_in Candida, which favors previously damaged or prosthetic heart valves The source is often an intravascular catheter or contaminated equipment used for illicit intravenous drug injection
+fever,murmur,congestive heart failure,anemia,splenomegaly
+
+Haverhill fever
+A primary bacterial infectious disease that results_in infection, has_material_basis_in Streptobacillus moniliformis, which is transmitted_by contact with urine or secretions from the mouth, eye, or nose of an infected animal or transmitted_by bite of an infected animal, especially rat
+chills,fever,rash and joint pain
+
+Scopulariopsis brevicaulis infectious disease
+
+rough nail,crumbly nail which can separate from the nail bed
+
+pasteurellosis
+A primary bacterial infectious disease that results_in systemic infection, has_material_basis_in Pasteurella multocida, which is transmitted_by animal bite, scratch, or lick
+joint pain fever,rigors,pneumonia,meningeal irritation,tachycardia
+
+infectious myxomatosis
+A viral infectious disease that results_in infection located_in eyes or located_in upper respiratory tract of domestic rabbits, has_material_basis_in Myxoma virus, which is transmitted_by mosquitos, transmitted_by biting flies or transmitted_by direct contact
+conjunctivitis with a milky discharge from the inflamed eye and breathing difficulties
+
+vaginal condylomata acuminata
+An anogenital venereal wart that results_in infection located_in mucosa of vagina, has_material_basis_in human papillomaviruses (types 6 and 11), which are transmitted_by direct sexual contact with the skin of an infected partner
+vaginal warts
+
+Gerstmann syndrome
+
+agraphia,acalculia,finger agnosia
+
+exanthema subitum
+
+sudden high fever,red rash that occurs first on the trunk then spreading to legs and neck
+
+dicrocoeliasis
+A parasitic helminthiasis infectious disease that involves parasitic infection of the bile ducts of the liver by Dicrocoelium dendriticum
+cholecystitis,liver abscesses,upper abdominal pain
+
+gastrointestinal tuberculosis
+An abdominal tuberculosis that results_in infection located_in gastrointestinal tract
+abdominal pain,weight loss,fever,anorexia,change in bowel habits,nausea,vomiting
+
+lymphocytic choriomeningitis
+A viral infectious disease that results_in infection located_in brain, or located_in meninges, or located_in brain and meninges, has_material_basis_in Lymphocytic choriomeningitis virus, which is transmitted_by common house mouse, Mus musculus
+fever,lack of appetite,headache,muscle aches,malaise,nausea,vomiting
+
+nocardiosis
+An opportunistic bacterial infectious disease that results_in disseminated infection in immunocompromised hosts, has_material_basis_in Nocardia asteroides
+pneumonia,cellulitis,lesions in the brain or meninges,ascending regional lymphadenopathy
+
+tungiasis
+A parasitic ectoparasitic infectious disease that is an inflammatory skin disease caused by the parasitic infestation of the female chigoe flea, Tunga penetrans in animals and humans
+skin inflammation,severe pain,itching,a lesion at the site of infection that is characterized by a black dot at the center of a swollen red lesion,surrounded a white halo
+
+Brugia timori filariasis
+A filarial elephantiasis that involves parasitic infection by the nematode Brugia timori, which inhabits the lymphatics
+fever,chronic lymphedema
+
+chronic mucocutaneous candidiasis
+
+scaling of skin lesions,thickening of nails,swollen periungal tissue,scarring of the scalp
+
+staphyloenterotoxemia
+A primary bacterial infectious disease that results_in infection located_in intestine caused by eating food contaminated with enterotoxins produced by bacteria, has_material_basis_in Staphylococcus aureus
+diarrhea,vomiting,nausea,cramps,weakness
+
+schistosomiasis
+A parasitic helminthiasis infectious disease that involves infection of the intestine, urinary tract, skin, liver and spleen caused by multiple species of the trematode fluke of the genus Schistosoma
+fever,chills,nausea,abdominal pain,diarrhea,malaise,myalgia,liver,spleen enlargement,rash,hematuria
+
+Indian tick typhus
+A spotted fever that has_material_basis_in Rickettsia conorii subsp indica, which is transmitted_by ticks (Rhipicephalus sanguineus)
+fever,eschar,regional adenopathy,maculopapular rash on extremities
+
+aspiration pneumonia
+A bacterial pneumonia which is an acute pulmonary inflammatory response that develops after the inhalation of colonized oropharyngeal material containing bacteria It is seen in individuals with dysphagia and gastric dysmotility
+tachypnea and cough
+
+Salmonella gastroenteritis
+A Salmonella infectious disease that involves inflammation of the stomach and intestines caused by Salmonella infection
+diarrhea,vomiting,abdominal pain,fever,weakness
+
+AIDS dementia complex
+A HIV encephalopathy that results_in infection in adults located_in brain, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2
+cognitive impairment,motor dysfunction,behavioral change,speech problems
+
+foot and mouth disease
+A viral infectious disease that results_in infection in cattle and swine, has_material_basis_in Foot-and-mouth disease virus, which is transmitted_by contaminated fomites, or transmitted_by ingestion of food contaminated with infected meat or animal products
+lameness
+
+HIV-associated nephropathy
+A renal infectious disease and is_a Human immunodeficiency virus infectious disease that results_in infection located_in kidney, has_material_basis_in has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2
+azotemia,hypoalbuminemia,hyperlipidemia
+
+gas gangrene
+A commensal bacterial infectious disease that results_in infection, located_in muscle tissue, has_material_basis_in Clostridium perfringens, which produce gas that becomes trapped in the infected tissue Gas gangrene usually develops after injuries or surgery
+large blisters,pain in the infected area,myonecrosis,gas production,sepsis
+
+feline panleukopenia
+A viral infectious disease that results_in ulceration located_in intestinal epithelium of cats, which has_material_basis_in Feline panleukopenia virus, transmitted_by contact with an infected cat's bodily fluids, feces, or fleas
+bloody diarrhea,dehydration,anemia,vomiting
+
+toxic shock syndrome
+A commensal bacterial infectious disease that results_in infection, has_material_basis_in Streptococcus pyogenes or has_material_basis_in Staphylococcus aureus , which produce toxins that are absorbed systemically and produce the systemic manifestations
+fever,rash,hypotension,multiorgan failure,desquamation,vomiting,diarrhea,headache,nonfocal neurologic abnormalities
+
+nonparalytic poliomyelitis
+A poliomyelitis that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions
+fever,sore throat,headache,vomiting,fatigue,neck stiffness,muscle spasms
+
+ornithosis
+A primary bacterial infectious disease that results_in systemic infection, has_material_basis_in Chlamydia psittaci, which is transmitted_by inhaling aerosolized dried droppings or transmitted_by contact with infected birds
+fever,headache,rash,chills,pneumonia
+
+Angiostrongylus cantonensis infectious disease
+An angiostrongyliasis that involves infection of the brain by the larvae of Angiostrongylus cantonensis causing eosinophilic meningitis Ocular invasion by the larvae can occur
+severe headache,nausea,vomiting,neck stiffness,seizures,neurologic abnormalities
+
+Japanese spotted fever
+A spotted fever that has_material_basis_in Rickettsia japonica, which is transmitted_by ticks (Dermacentor taiwanensis and Haemaphysalis flava)
+fever,eschars,regional adenopathy,rash on extremities
+
+Lymphocytic choriomeningitis virus meningoencephalitis
+A lymphocytic choriomeningitis that results_in inflammation located_in meninges and located_in brain, has_material_basis_in Lymphocytic choriomeningitis virus, which is transmitted_by common house mouse, Mus musculus
+fever,headache,stiff neck,drowsiness,confusion,sensory disturbances,paralysis
+
+intestinal schistosomiasis
+A schistosomiasis that involves parasitic infection of the intestine caused by Schistosoma mansoni, Schistosoma intercalatum or Schistosomiasis japonicum
+fever,cough,abdominal pain,diarrhea,hepatosplenomegaly,colonic polyposis with bloody diarrhea,eosinophilia
+
+Herpes simplex virus keratitis
+
+photophobia,blurred vision,tearing,pain,redness
+
+chickenpox
+A viral infectious disease that results_in infection located_in skin, has_material_basis_in Human herpesvirus 3, which is transmitted_by direct contact with secretions from the rash, or transmitted_by droplet spread of respiratory secretions
+anorexia,myalgia,nausea,fever,headache,sore throat,blisters
+
+acute chest syndrome
+A lung disease that involves a vasoocclusive crisis of the pulmonary vasculature seen in patients with sickle cell anemia The crisis is initiated by a lung infection, and the resulting inflammation and loss of oxygen tension leads to sickling of red cells and further vasoocclusion
+fever,pleuritic chest pain,tachypnea,cough,hypoxemia,marked leukocytosis,diffuse infiltrates on chest radiograph
+
+Histoplasma duboisii pericarditis
+
+pleural effusions,chest pain and cough
+
+Jamestown Canyon encephalitis
+A California virus encephalitis that results_in inflammation located_in brain, has_material_basis_in Jamestown Canyon virus, which is transmitted_by Culiseta, transmitted_by Aedes, and transmitted_by Anopheles species of mosquitoes
+headache,fever,neck stiffness,photophobia,nausea,vomiting,seizures
+
+seborrheic dermatitis
+A dermatitis that is an inflammatory skin condition resulting in flaky, white to yellowish scales on oily areas such as the scalp or inside the ear, which is caused due to a combination of an over production of skin oil and irritation from a yeast Malassezia furfur
+itching,skin lesions,scales,redness,plaques,hair loss
+
+scrub typhus
+A typhus that has_material_basis_in Orientia tsutsugamushi, which is transmitted_by trombiculid mites (Leptotrombidium deliense)
+fever,headache,muscle pain,cough,maculopapular rash,eschar,splenomegaly and lymphadenopathy
+
+ehrlichiosis
+A primary bacterial infectious disease that results_in infection located_in leukocyte, has_material_basis_in Ehrlichia chaffeensis or Anaplasma phagocytophilum, which are transmitted_by lone start stick and transmitted_by black-legged tick respectively
+headache,muscle aches,fatigue and rash
+
+Rickettsia parkeri spotted fever
+A spotted fever that has_material_basis_in Rickettsia parkeri, which is transmitted_by Gulf Coast tick (Amblyomma maculatum)
+fever,headache,eschar,rash
+
+tick-borne relapsing fever
+A relapsing fever that is characterized by relapsing or recurring episodes of fever, has_material basis_in Borrelia hermsii, has_material basis_in Borrelia parkeri or has_material basis_in Borrelia duttoni, which are transmitted_by soft ticks (Ornithodoros parkeri and Ornithodoros hermsii)
+tachypnea,tachycardia,hepatosplenomegaly and lymphadenopathy
+
+gastroduodenal Crohn's disease
+
+nausea,vomiting,weight loss and loss of appetite
+
+Trypanosoma brucei rhodesiense infectious disease
+A sleeping sickness that involves infection caused by Trypanosoma brucei rhodesiense, which is carried by the tsetse fly
+fever,severe headache,irritability,extreme fatigue,swollen lymph nodes,aching muscles,joints,skin rash,progressive confusion,personality changes,other neurologic problems
+
+fasciolopsiasis
+A parasitic helminthiasis infectious disease that involves parasitic infection of the intestine by Fasciolopsis buski
+diarrhea,abdominal pain,fever,ascites,anasarca,intestinal obstruction
+
+transmissible gastroenteritis of swine
+A viral infectious disease that results_in inflammation located_in stomach and located_in intestine in pigs, has_material_basis_in Transmissible gastroenteritis virus, which is transmitted_by ingestion of food contaminated with feces
+vomiting,watery yellow diarrhea,weight loss,dehydration
+
+hemorrhagic fever with renal syndrome
+A viral infectious disease that is a hemorrhagic fever, located_in kidney, has_material_basis_in Hantaan virus, has_material_basis_in Dobrava-Belgrade virus, has_material_basis_in Seoul virus, or has_material_basis_in Puumala virus, which are carried and transmitted_by rodents
+headache,fever,muscle pains,facial flush,petechiae,hemorrhagic features,proteinuria,renal failure
+
+Astrakhan spotted fever
+A spotted fever that has_material_basis_in Rickettsia conorii subsp caspia, which is transmitted_by ticks (Rhipicephalus pumilio and Rhipicephalus sanguineus)
+fever,eschar (usually single),regional adenopathy,maculopapular rash on extremities
+
+tracheobronchial tuberculosis
+A pulmonary tuberculosis involving inflammation of trachea and bronchi
+dry cough followed by dyspnea,localized wheezing,hemoptysis,hoarseness,anorexia,weight loss,chest pain,fever
+
+Human torovirus gastroenteritis
+A viral infectious disease that results_in inflammation located_in stomach and located_in intestine, has_material_basis_in Human torovirus, which is transmitted_by ingestion of food contaminated with feces
+bloody diarrhea
+
+macular degeneration
+
+vision loss
+
+Yersinia enterocolitica intestinal infectious disease
+A Yersinia infectious disease that involves infection of the intestine caused by Yersinia enterocolitica
+fever,abdominal pain,diarrhea (often bloody in children)
+
+Colorado tick fever
+A viral infectious disease that results_in infection, has_material_basis_in Colorado tick fever virus, which is transmitted_by rocky mountain wood tick, Dermacentor andersoni
+fever for 2-3 days,followed by an afebrile period of similar duration and then another 2-3 days of fever,headache,myalgia,fatigue
+
+tinea capitis
+
+itching of the scalp,pus filled lesions on the scalp,patches of hair loss,sometimes with a 'black dot' pattern
+
+meningovascular neurosyphilis
+A tertiary neurosyphilis that results_in inflammation located_in arteries of the brain or located_in arteries of spinal cord
+headache,neck stiffness,dizziness,behavioral abnormalities,poor concentration,memory loss,lassitude,insomnia,blurred vision,weakness and wasting of shoulder-girdle and arm muscles,slowly progressive leg weakness with urinary or fecal incontinence or both,paralysis of the legs due to thrombosis of spinal arteries
+
+tinea corporis
+ The border of the rash lesions look scaly
+itching,red colored skin rash
+
+Opisthorchis viverrini infectious disease
+A opisthorchiasis that involves parasitic infection of the liver, biliary ducts, pancreas and pancreatic ducts by Opisthorchis viverrini
+dyspepsia,abdominal pain,diarrhea,constipation,hepatomegaly,cholangitis,cholecystitis,chlolangiocarcinoma
+
+anisakiasis
+ Invasive anisakiasis results in the infection of omentum, pancreas, liver, and lung
+abdominal pain,nausea and vomiting
+
+infectious ectromelia
+A viral infectious disease that results_in infection located in skin of mice, has_material_basis_in Ectromelia virus
+swelling of the feet,gangrene,lesions on the skin
+
+paralytic poliomyelitis
+A poliomyelitis that results_in destruction located_in motor neurons of central nervous system, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions
+loss of reflexes,muscle spasms,acute flaccid paralysis
+
+herpetic whitlow
+
+lesions,fever,swollen lymph nodes
+
+Measles virus keratoconjunctivitis
+A Measles virus infectious disease that results_in inflammation located_in cornea and located_in conjunctiva, has_material_basis_in Measles virus, which is transmitted_by contact with oronasal secretions, or semen of an infected person
+mucopurulent discharge from the eye,pain in the eye,redness
+
+Crohn's colitis
+
+diarrhea,rectal bleeding,skin lesions and formation of ulcers,fistulas and abscesses around the anus
+
+Cytomegalovirus hepatitis
+ Clinical feature includes atypical lymphocytes in the blood
+nausea,vomiting,headache,abdominal pain,dark urine,jaundice
+
+Nipah virus encephalitis
+A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Nipah virus, which is transmitted_by direct contact with sick person or animals, or their contaminated tissues
+dizziness,drowsiness,altered consciousness,disorientation,coma
+
+tick-borne encephalitis
+A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Tick-borne encephalitis virus, which is transmitted_by Ixodes ticks
+drowsiness,confusion,sensory disturbances,paralysis
+
+American histoplasmosis
+
+nonproductive cough,headache,loss of appetite and muscle pains
+
+cryptococcal gastroenteritis
+
+gastointestinal bleeding,diarrhea and abdominal pain
+
+tropical spastic paraparesis
+A viral infectious disease that results_in inflammation located_in spinal cord, has_material_basis_in Human T-lymphotropic virus 1, which is transmitted_by sexual contact, and transmitted_by breast feeding
+spastic weakness of both legs,muscle stiffness,sensory disturbance,spasms
+
+Pthirus pubis infestation
+A lice infestation that involves parasitic infestation by pubic lice Pthirus pubis, which are found in the pubic hair, less commonly in eyebrows, eyelashes, beard, mustache, armpit, perianal area, groin, trunk and scalp Intense itching leads to scratching which can cause sores and secondary bacterial infection of the skin
+itching in the pubic,groin area
+
+opisthorchiasis
+A parasitic helminthiasis infectious disease that involves parasitic infection of the liver, pancreas and gall bladder by Opisthorchis viverrini or Opisthorchis felineus
+dyspepsia,abdominal pain,diarrhea,constipation,hepatomegaly,cholangitis,cholecystitis,chlolangiocarcinoma
+
+tuberculous mesenteric gland
+A tuberculosis that involves infection of the mesenteric glands by tuberculosis causing mycobacteria
+distended abdomen,persistent intestinal indigestion,diarrhea,flatulence,abdominal pain
+
+focal epithelial hyperplasia
+
+papules or nodules in the oral cavity
+
+Far Eastern spotted fever
+A spotted fever that has_material_basis_in Rickettsia heilongjiangensis, which is transmitted_by ticks (Haemaphysalis concinna)
+fever,eschar,maculopapular rash,regional adenopathy
+
+Opisthorchis felineus infectious disease
+A opisthorchiasis that involves parasitic infection of the liver, biliary ducts, pancreas and pancreatic ducts by Opisthorchis felineus
+fever,general malaise,skin rash,gastrointestinal disturbances,severe anemia,liver damage
+
+dientamoebiasis
+A parasitic protozoa infectious disease that involves infection of the large intestine by a protozoan parasite Dientamoeba fragilis
+diarrhea,stomach pain,cramping,loss of appetite,weight,nausea,fatigue
+
+viral gastroenteritis
+A gastroenteritis that involves inflammation of the stomach and intestines caused by viruses
+abdominal cramps,pain,fever,watery diarrhea,loss of appetite,nausea,vomiting
+
+O'nyong'nyong fever
+A viral infectious disease that results_in infection located_in joint, has_material_basis_in O'nyong-nyong virus, which is transmitted_by Anopheles gambiae, and transmitted_by Anopheles funestus mosquitoes
+fever,arthralgia,rash,lymphadenitis
+
+appendicitis
+A gastrointestinal system infectious disease that involves inflammation and infection of the appendix caused by the blockage of the lumen with a small, hard piece of stool, a foreign body or worms Mucus backs up in the appendiceal lumen, causing bacteria that live inside the appendix to multiply
+pain,in the upper abdomen initially and later in the lower abdomen,nausea,vomiting and fever
+
+early congenital syphilis
+A congenital syphilis that is manifested during the first 3 months of life
+skin lesions,lymphadenopathy,hepatosplenomegaly,failure to thrive,blood-stained nasal discharge,perioral fissures,meningitis,choroiditis,hydrocephalus,seizures,intellectual disability,osteochondritis,pseudoparalysis
+
+adenovirus gastroenteritis
+An adenovirus infectious disease that involves damage of the cells in the lining of the stomach and intestines caused by adenoviruses (types 40 and 41)
+watery diarrhea,vomiting,fever
+
+Histoplasma duboisii meningitis
+
+headache,confusion,decreased level of consciousness,cranial nerve deficits,seizures
+
+Chagas disease
+A trypanosomiasis that is a tropical parasitic disease caused by the flagellate protozoan Trypanosoma cruzi, which is transmitted to humans and other mammals by an insect vector, the blood-sucking assassin bugs of the subfamily Triatominae (family Reduviidae), most commonly species belonging to the Triatoma, Rhodnius, and Panstrongylus genera
+fever,fatigue,body aches,headache,rash,loss of appetite,diarrhea,vomiting,swelling of the eyelids,myocarditis
+
+Korean hemorrhagic fever
+A hemorrhagic fever with renal syndrome that results_in infection located_in kidney, has_material_basis_in Hantaan virus, which is transmitted_by the eurasian field mouse, Apodemus agrarius, or has_material_basis_in Seoul virus, which is transmitted_by norwegian rat, Rattus norvegicus
+headache,back pain,abdominal pain,fever,chills,nausea,blurred vision,flushing of the face,redness of the eyes,rash,low blood pressure,acute shock,vascular leakage,acute kidney failure,which can cause severe fluid overload
+
+hantavirus pulmonary syndrome
+A viral infectious disease that results_in infection located_in lung, has_material_basis_in Sin Nombre virus, transmitted_by deer mouse (Myodes glareolus), has_material_basis_in Black Creek Canal virus, transmitted_by cotton rat (Sigmodon hispidus), has_material_basis_in Bayou virus, transmitted_by marsh rice rat (Oryzomys palustris), has_material_basis_in Laguna Negra virus, transmitted_by small vesper mouse (Calomys laucha), or has_material_basis_in Andes virus, transmitted_by rice rat (Oligoryzomys longicaudatus)
+fever,muscle pain,headache,cough,vomiting,chills which rapidly progress to bilateral interstitial pulmonary infiltrates occurrence,pulmonary edema and hypoxia often resulting in death from shock or cardiac complications
+
+Banna virus encephalitis
+A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Banna virus, which is transmitted_by Culex, and transmitted_by Anopheles mosquitoes
+fever,headache
+
+gastrointestinal anthrax
+An anthrax disease that results_in infection located_in mucosa of gastrointestinal tract, has_material_basis_in Bacillus anthracis, which is transmitted_by ingestion of anthrax-infected meat
+lesions,vomiting of blood,severe diarrhea,loss of appetite
+
+Scytalidium hyalinum infectious disease
+
+keratotic plantar surface
+
+Histoplasma capsulatum meningitis
+
+headache,confusion,decreased level of consciousness,cranial nerve deficits,seizures
+
+West Nile fever
+A viral infectious disease that results_in infection, has_material_basis_in West Nile virus, which is transmitted_by Culex and transmitted_by Aedes mosquitoes
+fever,sore throat,headache,body ache,nausea,maculopapular rash and vomiting
+
+Epstein-Barr virus encephalitis
+
+seizures,altered consciousness,cerebellar ataxia
+
+eumycotic mycetoma
+
+sinus discharge and results_in_formation_of nodules
+
+central pontine myelinolysis
+
+acute paralysis,dysphagia,dysarthria
+
+Mumps virus meningitis
+A Mumps virus infectious disease that results_in inflammation located_in meninges, has_material_basis_in Mumps virus, which is transmitted_by droplet spread of saliva or mucus from the mouth, nose, or throat of an infected person, or transmitted_by contaminated fomites
+severe headache,neck stiffness
+
+postherpetic polyneuropathy
+
+severe pain,sensitivity to light touch,muscle weakness,paralysis,itching
+
+Measles virus encephalitis
+A Measles virus infectious disease that results_in inflammation located_in brain, has_material_basis_in Measles virus, which is transmitted_by contact with oronasal secretions, or semen of an infected person
+headache,irritability,drowsiness,abnormal reflexes,involuntary movements,hemiplagia,ataxia,nystagmus,dysphasia
+
+pneumonic tularemia
+A tularemia that is located_in lungs The bacteria are transmitted_by breathing dusts or aerosols containing the organisms
+cough,chest pain,difficulty breathing
+
+classical swine fever
+A viral infectious disease that results_in infection in swine, has_material_basis_in Classical swine fever virus, which is transmitted_by direct contact with oronasal secretions of the infected pig, transmitted_by ingestion of contaminated food, and transmitted_by fomites
+high fever,huddling,weakness,drowsiness,anorexia,conjunctivitis,diarrhea,hemorrhages in the skin
+
+louse-borne relapsing fever
+A relapsing fever that is characterized by relapsing or recurring episodes of fever, has_material basis_in Borrelia recurrentis, which is transmitted_by body louse (Pediculus humanus)
+tachypnea,tachycardia,hepatosplenomegaly and lymphadenopathy
+
+Flinders Island spotted fever
+A spotted fever that has_material_basis_in Rickettsia honei, which is transmitted_by cayenne ticks (Amblyomma cajennense)
+mild spotted fever,eschar and adenopathy
+
+Kunjin encephalitis
+A West Nile encephalitis that results_in infection located_in brain, has_material_basis_in Kunjin virus, a subtype of West Nile Virus, which is transmitted_by Culex annulirostris mosquito bite
+fever,rigor,headache,confusion,lethargy
+
+bejel
+A primary bacterial infectious disease that results_in infection located_in mucosa of mouth, located_in skin or located_in bone, has_material_basis_in Treponema pallidum subsp endemicum, which is transmitted_by contact or transmitted_by sharing of domestic utensils These lumps destroy tissue, causing bones to be deformed and disfiguring the face
+moist patches in the mouth,lumps in long bones,tissues around the mouth,nose,roof of the mouth
+
+Barmah Forest virus disease
+A viral infectious disease that results_in infection located_in joint, has_material_basis_in Barmah Forest virus, which is transmitted_by mosquito bite
+fever,arthralgia,rash
+
+tuberculous peritonitis
+A gastrointestinal tuberculosis that results_in inflammation located_in peritoneum, which results in formation of tubercles
+abdominal discomfort,pain,distention from gas or fluid,digestive disturbances and emaciation
+
+Colorado tick fever encephalitis
+A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Colorado tick fever virus which is transmitted_by rocky mountain wood tick, Dermacentor andersoni
+fever,headache,nausea,stiff neck,chills,hallucinations,disorientation,memory loss
+
+molluscum contagiosum
+A viral infectious disease that results_in infection located_in skin, has_material_basis_in Molluscum contagiosum virus, which is transmitted_by contact with the skin, and transmitted_by fomites
+lesions which are flesh-colored with a pit in the center
+
+vulvovaginal candidiasis
+A candidiasis that involves fungal infection of the vaginal mucous membranes in women caused by Candida albicans
+intense vulval pruritus,burning,erythema,dyspareunia associated with a creamy white,curd-like discharge
+
+herpangina
+A viral infectious disease that results_in infection located_in mouth, has_material_basis_in Human coxsackievirus A16, has_material_basis_in Human enterovirus 71, has_material_basis_in group B coxsackievirus, or has_material_basis_in echoviruses, which are transmitted_by ingestion of food contaminated with feces, transmitted_by contact with pharyngeal secretions, or transmitted_by droplet spread of oronasal secretions
+fever,sore throat,lesions in the back area of the mouth,particularly the soft palate or tonsillar pillars
+
+tinea manuum
+
+itching,burning,cracking,scaling
+
+coxsackie meningitis
+An Enterovirus infectious disease that results_in inflammation located_in meningeal cluster, has_material_basis_in Human enterovirus B, which is transmitted_by ingestion of food contaminated with feces, transmitted_by contact with pharyngeal secretions, or transmitted_by droplet spread of oronasal secretions
+fever,chills,nausea,headache,neck pain
+
+erysipeloid
+A primary bacterial infectious disease that results_in infection located_in skin, has_material_basis_in Erysipelothrix rhusiopathiae, which is transmitted_by contact with infected animals
+redness of skin,tenderness of skin and warmth of skin
+
+St. Louis encephalitis
+A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in St Louis encephalitis virus, which is transmitted_by Culex mosquitoes
+headache,high fever,neck stiffness,stupor,disorientation,coma,tremors,convulsions and spastic paralysis
+
+pulmonary paracoccidioidomycosis
+
+cough,fever,night sweats,malaise,weight loss
+
+Aspergillus pneumonia
+An aspergillosis that involves infection of the lung with Aspergillus, which causes pneumonia in people with an impaired immune system
+wheezing,coughing,fever
+
+lobomycosis
+
+crusty plaques,tumors and results_in_formation_of nodular lesions
+
+poliomyelitis
+A viral infectious disease that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions
+fever,sore throat,headache,vomiting,fatigue,neck stiffness,muscle spasms,acute flaccid paralysis
+
+pinta disease
+A primary bacterial infectious disease that results_in infection located_in skin, has_material_basis_in Treponema carateum, which is transmitted_by contact with skin and mucous membrane of an infected person
+pruritic plaque,which slowly enlarges and becomes pigmented and hyperkeratotic
+
+enterotoxigenic Escherichia coli infectious disease
+An Escherichia coli intestinal infectious disease that involves infection of the intestine caused by a serological subgroup of Escherichia coli called enterotoxigenic Escherichia coli (ETEC), which are non-invasive and produce heat-labile enterotoxin (LT) or heat stable toxin (ST) The bacteria colonize the GI tract by means of a fimbrial adhesin
+diarrhea without fever
+
+jejunoileitis
+
+abdominal pain,diarrhea,cramps and formation of fistulas
+
+Trichomonas cystitis
+A Trichomonas vaginalis trichomoniasis that involves inflammation of the urinary bladder caused by Trichomonas vaginalis
+pain during urination,foul urine odor,abnormal urine color
+
+plantar wart
+
+lesions that appear on the sole of the foot
+
+campylobacteriosis
+A primary bacterial infectious disease that results_in infection located_in intestine, has_material_basis_in Campylobacter jejuni, which is transmitted_by ingestion of contaminated food or water or transmitted_by contact with infected people or animals
+diarrhea or dysentery,abdominal cramps and pain,fever
+
+Kyasanur forest disease
+A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Kyasanur forest disease virus, which is transmitted_by Haemaphysalis spinigera tick bite
+fever,headache,stiffness of the neck,severe muscle pain,cough,dehydration,bleeding problems
+
+feline infectious peritonitis
+A viral infectious disease that results_in infection in cats, located_in peritoneum, has_material_basis_in Feline infectious peritonitis virus, which is transmitted_by contact with the infected cat, and transmitted_by congenital method
+sneezing,watery eyes,nasal discharge,accumulation of fluid in the abdomen
+
+candidal gastritis
+A candidiasis that involves inflammation of the gastric mucosa caused by Candida albicans infection
+dyspepsia,gastric ulcers,gastric perforations,nausea,vomiting
+
+pneumonic plague
+
+fever,chills,cough and difficulty breathing
+
+Herpes simplex virus hepatitis
+
+fever,nausea,vomiting,abdominal pain,herpetic lesions
+
+pseudorabies
+
+abortion,coughing,sneezing,fever,constipation,depression,seizures,ataxia,circling,excess salivation in piglets,intense itching in cattle
+
+Vibrio gastroenteritis
+A Vibrio infectious disease that involves inflammation of the stomach and intestines caused by noncholera Vibrio species like Vibrio parahaemolyticus, Vibrio fluvialis and Vibrio vulnificus Some species produce enterotoxins, which impair intestinal absorption, resulting in watery diarrhea
+abdominal cramps,fever,vomiting,nausea,diarrhea
+
+tabes dorsalis
+A tertiary neurosyphilis that results_in slow degeneration of the nerve cells and nerve fibers that carry sensory information to the brain
+intense,stabbing pain in the back and legs that recurs irregularly,gait ataxia,hyperesthesia,paresthesia,loss of bladder sensation leading to urine retention,erectile dysfunction
+
+acute hemorrhagic conjunctivitis
+A viral infectious disease that results_in inflammation located in conjunctiva, has_material_basis_in Human coxsackievirus A24 or has_material_basis_in Human enterovirus 70, which are transmitted_by contaminated fomites or transmitted_by contact with contaminated hands
+vascular dilation,eyelid edema,photophobia,redness of the eyes,watering of the eye,conjunctival congestion,superficial punctate epithelial keratitis
+
+pulmonary blastomycosis
+
+lung lesions,pleural thickening and results_in_formation_of pulmonary nodules
+
+Rotavirus infectious disease
+A Reoviridae infectious disease that results_in inflammation located_in stomach and located_in intestine, has_material_basis_in Rotavirus, which is transmitted_by ingestion of contaminated food or water, or transmitted_by fomites
+fever,vomiting,diarrhea,abdominal pain
+
+Newcastle disease
+A viral infectious disease that results_in infection in birds and humans, has_material_basis_in Newcastle disease virus, which is transmitted_by contact with feces and urine of an infected bird, or transmitted_by fomites
+conjunctivitis,headache,lacrimation in humans,gasping,coughing,twisting of head and neck,circling,complete paralysis,watery diarrhea,reduced egg production in birds
+
+melioidosis
+A primary bacterial infectious disease that results_in infection, has_material_basis_in Burkholderia pseudomallei, which is transmitted_by contact with the contaminated water or soil
+fever,respiratory distress,chest pain,stomach pain
+
+Lymphocytic choriomeningitis virus encephalitis
+A lymphocytic choriomeningitis that results_in inflammation located_in brain, has_material_basis_in Lymphocytic choriomeningitis virus, which is transmitted_by common house mouse, Mus musculus
+drowsiness,confusion,sensory disturbances,paralysis
+
+Mumps virus encephalitis
+A Mumps virus infectious disease that results_in inflammation located_in brain, has_material_basis_in Mumps virus, which is transmitted_by contact with the oronasal secretions of an infected person
+convulsions,drowsiness,rigidity of limbs,slurred speech
+
+cyclosporiasis
+A coccidiosis that involves infection of the intestine with the parasitic protozoan Cyclospora cayetanensis, which is transmitted by contaminated food and water
+watery diarrhea,anorexia,weight loss,abdominal pain,nausea,vomiting,myalgias,low-grade fever,fatigue
+
+Coxiella burnetii hepatitis
+A Q fever that involves inflammation of the liver caused by Coxiella burnetti, which results in the formation of granulomas
+fever,malaise,hepatomegaly with right upper abdominal pain,jaundice
+
+Epstein-Barr virus hepatitis
+
+headache,fatigue,fever,abdominal pain,nausea,jaundice
+
+enteroinvasive Escherichia coli infectious disease
+An Escherichia coli intestinal infectious disease that involves infection of the intestine caused by a serological subgroup of Escherichia coli called enteroinvasive Escherichia coli (EIEC), which penetrate and multiply within epithelial cells of the colon causing cell destruction They do not produce toxins but they possess a specific adhesin, which is an outer membrane protein
+dysentery-like diarrhea with fever
+
+vaccinia
+A viral infectious disease that results_in infection, located_in skin, has_material_basis_in Vaccinia virus, which is used as a live vaccine against smallpox The virus is transmitted_by contact with the vaccination site before it has healed, or transmitted_by fomites that have been contaminated with live virus from the vaccination site
+rash,fever,body aches
+
+pericarditis
+
+chest pain
+
+Blastocystis hominis infectious disease
+A parasitic stramenopiles infectious disease that involves infection of the intestine with a pathogenic heterokont Blastocystis hominis
+watery diarrhea,abdominal pain,perianal pruritus,excessive flatulence
+
+milker's nodule
+A viral infectious disease that results_in infection of cattle and humans, located_in skin, has_material_basis_in Pseudocowpox virus, which is transmitted_by contact with the infected cow teats, or transmitted_by fomites
+fever,lymphangitis,lymphadenopathy
+
+Herpes simplex virus meningitis
+
+headache,fever,meningism
+
+Siberian tick typhus
+A spotted fever that has_material_basis_in Rickettsia sibirica, which is transmitted_by ticks (Dermacentor nuttalli, Dermacentor marginatus and Haemaphysalis concinna)
+fever,eschar,regional adenopathy,maculopapular rash
+
+babesiosis
+ They are transmitted by Ixodid ticks or by blood transfusion Babesiosis is a zoonotic disease
+mild fevers and anemia described as malaria-like symptoms caused by a protozoan of genus Babesia,which reproduce in red blood cells and cause hemolytic anemia
+
+leptospirosis
+A primary bacterial infectious disease that involves systemic infection, has_material_basis_in Leptospira, which is transmitted_by contact with water, food, or soil containing urine from the infected animals
+jaundice,chills,fever,muscle pain,hepatomegaly
+
+myeloid metaplasia
+
+abdominal fullness related to an enlarged spleen,bone pain,bruising,easy bleeding,fatigue,increased susceptibility to infection,pallor,has_symtom shortness of breath while doing physical work
+
+canine distemper
+A viral infectious disease that results_in infection located_in respiratory system, located_in gastrointestinal system, and located_in nervous system of dogs, foxes, wolves, coyotes, raccoons, skunks, and ferrets, has_material_basis_in Canine distemper virus, which is transmitted_by droplet spread of respiratory secretions from an infected animal
+fever,nasal discharge,coughing,vomiting,diarrhea,seizures,twitching
+
+abdominal actinomycosis
+
+abscess formation
+
+Herpes simplex virus esophagitis
+A Simplexvirus infectious disease that results_in inflammation located_in esophagus, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2
+difficulty swallowing,fever,herpetic lesions and painful swallowing
+
+West Nile encephalitis
+A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in West Nile virus, which is transmitted_by Culex, transmitted_by Aedes, and transmitted_by Anopheles species of mosquitoes
+high fever,headache,neck stiffness,stupor,disorientation,coma,tremors,convulsions,muscle weakness,vision loss,numbness,paralysis
+
+glanders
+A primary bacterial infectious disease that results_in septicemic infection, has_material_basis_in Burkholderia mallei, which is transmitted_by contact with tissues or body fluids of infected animals, or through mucosal surfaces such as the eyes and nose
+fever,chills,sweating,muscle aches,chest pain,muscle tightness,headache,mucopurulent nasal discharge,nodular lesions in the lungs
+
+West Nile virus infectious disease
+A Flavivirus infectious disease that results_in infection in animals and humans, has_material_basis_in West Nile virus, which is transmitted_by Culex mosquitoes
+fever,headache,body aches,nausea,vomiting,swollen lymph glands,or skin rash on the chest,stomach and back
+
+oropharyngeal candidiasis
+A candidiasis that involves fungal infection of the oropharynx in immunocompromised patients caused by Candida species resulting in formation of white plaques on the buccal mucosa, tongue, gums, palate, or pharynx
+burning or dryness of the mouth,loss of taste,pain on swallowing
+
+hepatic capillariasis
+A capillariasis that involves infection of the liver with Capillaria, which manifests as an acute or subacute hepatitis with eosinophilia
+abdominal pain,fever,chills,hepatitis,ascites,hepatolithiasis,hepatomegaly
+
+common wart
+A viral infectious disease that results_in infection located_in skin, has_material_basis_in human papillomavirus (types 2 and 4)
+raised wart with roughened surface,most common on hands,but can grow anywhere on the body
+
+pneumocystosis
+
+nonproductive cough,shortness of breath,fever
+
+Argentine hemorrhagic fever
+A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Junin virus, which is transmitted_by rodent, Calomys musculinus
+fever,fatigue,malaise,leukopenia,thrombocytopenia,hemorrhagic manifestations
+
+ancylostomiasis
+A parasitic helminthiasis infectious disease that involves infection of skin, eyes, and viscera in humans by the parasitic nematodes Ancylostoma braziliense, Ancylostoma ceylanicum, Ancylostoma duodenale or Ancylostoma caninum The larvae cause lesions on the skin at the site of penetration
+intestinal bleeding,abdominal pain,anemia,severe diarrhea and malnutrition
+
+yellow fever
+A viral infectious disease that results_in infection, has_material_basis_in Yellow fever virus, which is transmitted_by Aedes, transmitted_by Haemagogus, or transmitted_by Sabethes species of mosquitoes
+fever,muscle pain,backache,headache,shivers,loss of appetite,jaundice,bleeding from the mouth,nose,eyes or stomach leading to vomitus containing blood
+
+sarcocystosis
+A coccidiosis that involves infection of the intestine and muscles of humans and animals caused by an intracellular protozoan parasite of genus Sarcocystis
+mild fever,diarrhea,chills,vomiting,muscle swelling,erythema,muscle tenderness,cough,arthralgia,transient pruritic rashes,headache,malaise,lymphadenopathy
+
+coxsackie pericarditis
+A coxsackie carditis that results_in inflammation located_in pericardium, has_material_basis_in group B coxsackievirus, which are transmitted_by ingestion of food contaminated with feces, transmitted_by contact with pharyngeal secretions, or transmitted_by droplet spread of oronasal secretions
+acute chest pain,disturbance of heart rate,dyspnea
+
+gastrointestinal mucormycosis
+
+abdominal pain,distention,nausea,vomiting
+
+Chapare hemorrhagic fever
+A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Chapare virus
+headache,joint pain,muscle pain,vomiting,shock,bleeding
+
+tetanus neonatorum
+A tetanus that occurs in newborn babies when the birth cord stump gets dirty through cutting it with an unclean blade or applying substances containing bacteria to it
+stiff body,muscle spasms,difficulty in breathing,exhaustion
+
+poliovirus type II nonparalytic poliomyelitis
+A nonparalytic poliomyelitis that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 2, which is transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions
+fever,sore throat,headache,vomiting,fatigue,neck stiffness,muscle spasms
+
+respiratory syncytial virus infectious disease
+A viral infectious disease that results_in infection located_in upper respiratory tract or located_in lower respiratory tract, has_material_basis_in Human respiratory syncytial virus, which is transmitted_by droplet spread of nasal secretions from an infected person while coughing or sneezing, or transmitted_by contaminated fomites
+runny nose,fever,cough,wheezing,respiratory distress
+
+HIV encephalopathy
+An acquired immunodeficiency syndrome that results_in infection located_in brain, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2
+cognitive impairment,motor dysfunction,behavioral change
+
+septicemic plague
+A plague that results_in infection located_in vasculature where bacterial endotoxins cause coagulation, which leads to formation of tiny clots throughout the body
+fever,chills,prostration,abdominal pain,shock and bleeding into skin and other organs
+
+Measles virus hepatitis
+A Measles virus infectious disease that results_in inflammation located_in liver, has_material_basis_in Measles virus, which is transmitted_by contact with oronasal secretions, or semen of an infected person
+jaundice
+
+malignant catarrh
+
+fever,bilateral corneal opacity,oculonasal discharge
+
+poliovirus type III nonparalytic poliomyelitis
+A nonparalytic poliomyelitis that results_in destruction located_in motor neurons, has_material_basis_in Human poliovirus 3, which is transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions
+fever,sore throat,headache,vomiting,fatigue,neck stiffness,muscle spasms
+
+coccidioidomycosis
+
+conjunctivitis,arthritis,chest pain and results_in_formation_of skin nodules
+
+Escherichia coli dysentery
+An enteroinvasive Escherichia coli infectious disease that involves infection of the intestine caused by enteroinvasive Escherichia coli
+fever,bloody diarrhea,dehydration
+
+HIV-associated lipodystrophy syndrome
+A lipodystrophy and is_a Human immunodeficiency virus infectious disease that is characterized by loss of subcutaneous fat, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2 Anti-retroviral medications are also associated with the disease
+fat loss in face,buttocks,arms,legs
+
+equine infectious anemia
+A viral infectious disease that results_in breakdown of red blood cells in horses, has_material_basis_in Equine infectious anemia virus, which is transmitted_by horse fly bite, transmitted_by deer fly bite, transmitted_by contact with saliva, milk, and body secretions, and transmitted_by contaminated needles and surgical equipment
+anemia,weakness,swelling of the lower abdomen and legs,weak pulse,irregular heartbeat
+
+granulomatous amebic encephalitis
+A parasitic protozoa infectious disease that results in infection of the brain caused by Acanthamoeba or Balamuthia mandrillaris
+headaches,altered mental status,focal neurologic deficit,which progresses over several weeks to death
+
+Pediculus humanus capitis infestation
+A lice infestation that involves colonization of the hair and skin by the parasitic insect Pediculus humanus capitis, which feeds on blood several times daily and resides close to the scalp to maintain its body temperature
+tickling feeling of something moving in the hair,itching,caused by an allergic reaction to louse saliva,irritability
+
+chikungunya
+A viral infectious disease that results_in infection located_in joint, has_material_basis_in Chikungunya virus, which is transmitted_by Aedes mosquito bite
+fever,arthralgia,maculopapular rash
+
+postherpetic trigeminal neuralgia
+A viral infectious disease that results_in pain located_in trigeminal nerve, has_material_basis_in Human herpesvirus 3, which reactivates after the initial infection
+facial pain
+
+Brucella canis brucellosis
+A brucellosis involving an infection caused by Brucella canis [NCBITaxon:36855] in dogs and humans
+fever,sweats,weakness,weight loss,headache,lymphadenopathy and splenomegaly
+
+cryptococcal meningitis
+
+headache,nausea,staggering gait,dementia,blurred vision and confusion
+
+bacterial gastroenteritis
+A gastroenteritis that involves inflammation of the stomach and intestines caused by bacteria
+abdominal cramps,pain,diarrhea,loss of appetite,nausea,vomiting
+
+Buruli ulcer disease
+A primary bacterial infectious disease that results_in infection located_in skin or located_in subcutaneous tissue, has_material_basis_in Mycobacterium ulcerans, which could be transmitted_by insects The bacterium produces a toxin, named mycolactone, which causes subcutaneous fat necrosis and inhibits an immune response
+nodule,which is a painless,mobile swelling in the skin
+
+human immunodeficiency virus infectious disease
+A viral infectious disease that results_in destruction of immune system, leading to life-threatening opportunistic infections and cancers, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles The virus infects helper T cells (CD4+ T cells) which are directly or indirectly destroyed, macrophages, and dendritic cells
+diarrhea,fatigue,fever,vaginal yeast infection,headache,mouth sores,muscle aches,sore throat,swollen lymph glands
+
+Herpes simplex virus otitis externa
+
+vesicles in the ear canal
+
+Norovirus gastroenteritis
+A viral infectious disease that results_in inflammation located_in stomach and located_in intestine, has_material_basis_in Norovirus, which is transmitted_by ingestion of contaminated food or water, or transmitted_by fomites
+vomiting,watery diarrhea,abdominal cramps,nausea,fever
+
+Caffey disease
+A bone inflammation disease that causes bone changes, soft tissue swelling and irritability in infants The disease has been associated with COL1A1 gene
+soft-tissue swelling,bone lesions,irritability
+
+Whitewater Arroyo hemorrhagic fever
+A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Whitewater Arroyo virus, which is transmitted_by white-throated woodrats (Neotoma albigula)
+fever,headache,myalgia,hemorrhagic manifestations
+
+pulmonary mucormycosis
+
+hemoptysis and necrosis
+
+viral hemorrhagic septicemia
+A viral infectious disease that results_in infection in fish, has_material_basis_in Viral hemorrhagic septicemia virus, which is transmitted_by contact with the contaminated water, or transmitted_by direct contact
+hemorrhages in the internal organs,skin,muscle,bulging eyes,bloated abdomens
+
+blastomycosis
+
+skin lesions,lung lesions and pleural thickening
+
+ileitis
+
+diarrhea,abdominal pain,often in the right lower quadrant,weight loss
+
+gastroenteritis
+A gastrointestinal system infectious disease that involves inflammation of the lining of the stomach and small and large intestines, which is caused by viruses, bacteria, or parasites Chemicals and drugs also cause gastroenteritis
+diarrhea,loss of appetite,nausea,vomiting,cramps,discomfort in the abdomen
+
+Acanthamoeba keratitis
+A parasitic protozoa infectious disease that involves infection of the cornea of the eye with Acanthamoeba in people wearing contact lenses
+eye pain,eye redness,blurred vision,sensitivity to light,excessive tearing,sensation of something in the eye
+
+dengue hemorrhagic fever
+A dengue disease that occurs when a person experiences a second infection with a heterologous Dengue virus serotype, which is transmitted_by Aedes mosquito bite
+hemorrhagic lesions of the skin,thrombocytopenia,reduction in the fluid part of the blood,high fever
+
+Trypanosoma brucei gambiense infectious disease
+A sleeping sickness that involves infection caused by Trypanosoma brucei gambiense, which is carried by the tsetse fly
+fever,rash,swelling of the face,hands,headaches,fatigue,aching muscles,joints,itching skin,swollen lymph nodes,progressive confusion,personality changes,daytime sleepiness with nighttime sleep disturbances,other neurologic problems
+
+Pestivirus infectious disease
+A viral infectious disease that results_in infection in mammals, has_material_basis_in Pestivirus, which is transmitted_by contact with nasal secretions of an infected animal
+diarrhea,respiratory problems,bleeding disorder
+
+acute stress disorder
+
+flashbacks,bad dreams,frightening thoughts,avoidance or hyperarousal of PTSD occurring within one month of a traumatic experience as Acute Stress Disorder or ASD
+
+aspiration pneumonitis
+A pneumonia that is defined as an acute lung injury after the inhalation of foreign material such as regurgitated acidic gastric contents, petroleum products and laxative oils This syndrome occurs in patients who have a marked disturbance of consciousness such as that resulting from a drug overdose, seizures, a massive cerebrovascular accident, or the use of anesthesia Aspiration of gastric contents results in a chemical burn of the tracheobronchial tree and pulmonary parenchyma, causing an intense parenchymal inflammatory reaction
+non-productive cough,tachypnea,bronchospasm,bloody sputum,frothy sputum,or respiratory distress,2-5 hrs after aspiration
+
+Helicobacter pylori gastritis
+A commensal Helicobacter infectious disease that involves inflammation of the stomach lining caused by Helicobacter pylori, which contributes to ulcer formation by increasing acid production, interfering with the normal defenses against stomach acid, and producing toxins
+indigestion,pain or discomfort in the upper abdomen
+
+polioencephalitis
+An Enterovirus infectious disease that results_in inflammation located_in brain, has_material_basis_in polioviruses, which are transmitted_by ingestion of food contaminated with feces
+tremors,nystagmus,loss of conjugate eye movements,muscle rigidity,hemiparesis,coma
+
+hepatitis B
+A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis B virus, which is transmitted_by sexual contact, transmitted_by blood transfusions, and transmitted_by fomites like needles or syringes
+fever,fatigue,loss of appetite,nausea,vomiting,abdominal pain,clay-colored bowel movements,joint pain,jaundice
+
+SARS coronavirus pneumonia
+A severe acute respiratory syndrome that results_in infection located_in lungs, has_material_basis_in SARS coronavirus (SARS-CoV), which is transmitted_by droplet spread of respiratory secretions, transmitted_by ingestion of contaminated food, or transmitted_by fomites
+fever,myalgia,lethargy,cough,sore throat,shortness of breath,other breathing difficulties which may lead to death as a result of respiratory failure
+
+lymph node tuberculosis
+
+lymphadenopathy,fever,weight loss,fatigue,night sweats and cough
+
+contagious pustular dermatitis
+A viral infectious disease that results_in infection located_in skin, has_material_basis_in Orf virus, which is transmitted_by contact with infected or recently vaccinated animals, or transmitted_by fomites carrying the virus
+lesions on the finger,hand,arm,face,penis
+
+ocular toxoplasmosis
+A toxoplasmosis that results from reactivation of congenital toxoplasmosis, but rarely with acquired infection Focal necrotizing retinitis and a secondary granulomatous inflammation of the choroid occur
+conjunctivitis,ocular pain,blurred vision,blindness
+
+acanthocephaliasis
+A parasitic helminthiasis infectious disease that involves infection of the intestine caused by thorny-headed worms Macracanthorhynchus or Moniliformis moniliformis
+abdominal pain,distension,fever,decreased appetite,nausea,vomiting,weight loss,diarrhea,constipation or bloody stools
+
+borna disease
+A viral infectious disease that results_in infection, which affects dopaminergic neurotransmission located_in central nervous system, has_material_basis_in Borna disease virus, which is transmitted_by contact with infected oronasal secretions
+mood disturbances,behaviour disturbances,cognitive disturbances,neurologic disturbances,movement impairment
+
+tinea pedis
+
+fissures,scaling,maceration,eroded areas between the toes and on the plantar surface of the foot
+
+listeriosis
+A primary bacterial infectious disease that results_in infection, has_material_basis_in Listeria monocytogenes, which is transmitted_by ingestion of contaminated food or raw milk or transmitted_by congenital method Maternal infection with Listeria can result in chorioamnionitis, premature labor, spontaneous abortion, or stillbirth
+nausea,vomiting,diarrhea,fever,malaise,back pain,headache
+
+tick paralysis
+A tick infestation that is characterized by an acute, ascending, flaccid motor paralysis, which is caused by the introduction of a neurotoxin into humans during attachment and feeding by the females of several tick species such as Dermacentor andersoni, Dermacentor variabilis, Amblyomma americanum, Amblyomma maculatum, Ixodes scapularis, Ixodes pacificus, Ixodes holocyclus, Rhipicephalus sanguineus and Otobius megnini
+local inflammation,edema,hemorrhage
+
+avian influenza
+An influenza that results_in infection located_in respiratory tract of humans, domestic and wild birds, has_material_basis_in Influenza A virus, which is transmitted_by contact with infected poultry Five strains of avian influenza A viruses (H5N1, H7N3, H7N2, H7N7 and H9N2) are known to cause human infections
+fever,cough,sore throat,muscle aches,nausea,diarrhea,vomiting,neurologic changes,pneumonia,acute respiratory distress
+
+penis herpetic infectious disease
+
+lesions,swollen glands in the groin area
+
+brucellosis
+A primary bacterial infectious disease that is caused by the bacteria of the genus Brucella, when humans come in contact with contaminated animals or animal products or ingestion of infected food products
+fever,sweat,headache,back pain,physical weakness,joint pain and fatigue
+
+visna
+A viral infectious disease that results_in infection located_in brain in sheep and goats, has_material_basis_in Visna/Maedi virus , which is transmitted_by droplet spread of oronasal secretion, and transmitted_by ingestion of contaminated water, milk or colostrum
+hindlimb weakness,head tilt,ataxia,incoordination,muscle tremors,paresis,paraplegia
+
+dengue disease
+A viral infectious disease that results_in infection, has_material_basis_in Dengue virus [NCBITaxon:12637] with four serotypes (Dengue virus 1, 2, 3 and 4), which are transmitted_by Aedes mosquito bite
+fever,severe headache,severe pain behind the eyes,joint pain,muscle and bone pain,rash,mild bleeding
+
+tinea
+
+itchy patches,red rash on the skin
+
+Venezuelan equine encephalitis
+A viral infectious disease that results_in inflammation located_in brain of horses and humans, has_material_basis_in Venezuelan equine encephalitis virus, which is transmitted_by Culex mosquitoes
+fever,chills,malaise,severe headache,photophobia,myalgia in the legs and lumbosacral region
+
+echovirus meningitis
+A coxsackie meningitis that results_in inflammation located_in meningeal cluster, has_material_basis_in Human echovirus 30, or has_material_basis_in Human echovirus 9, which is transmitted_by ingestion of food contaminated with feces, transmitted_by droplet spread of oronasal secretions from infected person, or transmitted_by contaminated fomites
+fever,chills,nausea,headache,photophobia and neck stiffness
+
+parainfluenzal pneumonia
+A viral infectious disease that results_in inflammation located_in lung, has_material_basis_in Human parainfluenza virus 3, which is transmitted_by contact with the respiratory secretions of an infected person The infection leads to the formation of multinucleated giant cells derived from the respiratory epithelium
+shortness of breath,cough,fever
+
+3-Methylcrotonyl-CoA carboxylase deficiency
+An amino acid metabolic disorder that has_material_basis_in mutations in the MCCC1 and MCCC2 genes causing inadequate levels of the enzyme 3-methylcrotonyl-CoA carboxylase that helps break down proteins containing the amino acid leucine
+muscular hypotonia (weak muscle tone),muscular atrophy,feeding difficulties,recurrent episodes of vomiting and diarrhea,lethargy
+
+infectious mononucleosis
+
+fever,fatigue,lymphadenopathy,splenomegaly
+
+pulmonary tuberculosis
+A tuberculosis that is a contagious disease located_in lungs
+fever,cough,difficulty in breathing,inflammatory infiltrations,formation of tubercles,caseation,pleural effusion,fibrosis
+
+AIDS retinopathy
+A Human immunodeficiency virus infectious disease that results_in microvascular changes located_in retina, has_material_basis_in Human immunodeficiency virus 1 or has_material_basis_in Human immunodeficiency virus 2
+cotton-wool spots,retinal hemorrhages,microaneurysms
+
+cercarial dermatitis
+A schistosomiasis that is a short-term, cutaneous inflammatory response associated with penetration of the skin by cercariae of bird schistosome, Austrobilharzia variglandis
+skin reddening,skin itching,in the water or immediately after emerging and itchy,raised papules,occur within hours of infection
+
+human granulocytic anaplasmosis
+An ehrlichiosis that results_in infection located_in granular leukocyte, has_material_basis_in Anaplasma phagocytophilum, which is transmitted_by lone start tick (Amblyomma americanum )
+headache,muscle aches,fatigue,fever and rash
+
+Saffold virus gastroenteritis
+A viral infectious disease that results_in inflammation located_in stomach and located_in intestine, has_material_basis_in Saffold virus, which is transmitted_by ingestion of food contaminated with feces
+watery diarrhea,fever,nausea,vomiting
+
+Mumps virus polyneuritis
+A Mumps virus infectious disease that results_in inflammation located_in peripheral nerves, has_material_basis_in Mumps virus, which is transmitted_by droplet spread of saliva or mucus from the mouth, nose, or throat of an infected person, or transmitted_by contaminated fomites
+pins-and-needles sensation,weakness,numbness
+
+severe pre-eclampsia
+
+at least one of the following: SBP of 160mm HG or higher or DPB of 110mm HG or higher on 2 occasions at least 6 hours apart,proteinuria more than 5g in a 24-hour collection,pulmonary edema or cyanosis,oliguria,persistent headaches,epigastric pain and/or impaired liver function,thrombocytopenia,oligohydramnios,decreased fetal growth or placental abruption
+
+lung carcinoma
+
+cough and chest discomfort or pain and weight loss and hemoptysis
+
+Kniest dysplasia
+An osteochondrodysplasia that has_material_basis_in a mutation in the COL2A1 gene which results_in dwarfism with a short trunk and limbs as well as vision and hearing problems
+large joints,wide set eyes,round flat face
+
+Hantavirus infectious disease
+A viral infectious disease that results_in infection, located_in lungs or located_in kidney, has_material_basis_in Hantavirus, which is transmitted_by rodents
+renal failure,hemorrhagic manifestations,pulmonary edema
+
+bulbar polio
+A paralytic poliomyelitis that results_in destruction located_in motor neurons of brainstem, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions
+difficulty breathing,difficulty speaking,difficulty swallowing,difficulty chewing
+
+toxoplasmosis
+A coccidiosis that has_material_basis_in protozoan Toxoplasma gondii The parasite effects most genera of warm-blooded animals, including humans, but the primary host is the felid (cat) family Animals are infected by eating infected meat, by ingestion of feces of a cat that has itself recently been infected, or transmission_by mother to fetus
+bilateral,nontender cervical or axillary lymphadenopathy,fever,malaise,myalgia,hepatosplenomegaly,anemia,leukopenia
+
+Uncinaria stenocephala infectious disease
+A parasitic helminthiasis infectious disease that involves infection of the small intestine in humans, cats, dogs and foxes by the nematode Uncinaria stenocephala
+diarrhea,hypoproteinemia in heavier infections
+
+rinderpest
+A viral infectious disease that results_in infection in cattle, has_material_basis_in Rinderpest virus, which is transmitted_by direct contact with an infected animal, or transmitted_by ingestion of contaminated water
+fever,nasal and eye discharge,results_in_formation_of erosions in the mouth,the lining of the nose and the genital tract
+
+Alpers syndrome
+
+convulsions
+
+Eastern equine encephalitis
+A viral infectious disease that results_in inflammation located_in brain of horses and humans, has_material_basis_in Eastern equine encephalitis virus, which is transmitted_by Aedes, transmitted_by Coquillettidia, and transmitted_by Culex species of mosquitoes
+sudden onset of headache,high fever,chills,vomiting,disorientation,seizures,coma
+
+typhoid fever
+A primary bacterial infectious disease that is a communicable systemic illness, has_material_basis_in Salmonella enterica subsp enterica serovar Typhi, which is transmitted_by ingestion of food or water contaminated with the feces of an infected person
+fever,diarrhea,prostration,headache,splenomegaly,liver enlargement,eruption of rose-colored spots,leukopenia
+
+adenoiditis
+An upper respiratory tract disease which involves inflammation, pain, and swelling of the adenoid tissue due to the infection by bacteria and viruses It occurs primarily in children and may be secondary to an allergy, infection of nose or throat and an obstruction of the eustachian tube
+pain,redness,swelling,difficulty swallowing
+
+Zika fever
+
+fever,rash,headaches and joint pain
+
+Balkan hemorrhagic fever
+A hemorrhagic fever with renal syndrome that results_in infection located_in kidney, has_material_basis_in Dobrava-Belgrade virus , which is transmitted_by yellow-necked field mouse, Apodemus flavicollis
+headache,fever,muscle pains,facial flush,petechiae,hemorrhagic features,proteinuria,renal failure
+
+Rocky Mountain spotted fever
+A spotted fever that has_material_basis_in Rickettsia rickettsii, which is transmitted_by ticks (Dermacentor variabilis and Dermacentor andersoni)
+fever,headache,abdominal pain,maculopapular rash progressing into papular or petechial rash
+
+African tick-bite fever
+A spotted fever that has_material_basis_in Rickettsia africae, which is transmitted_by ticks (Amblyomma hebraeum and Amblyomma variegatum)
+fever,eschar and maculopapular rash
+
+Churg-Strauss syndrome
+
+asthma along with hay fever,rash and gastrointestinal bleeding
+
+spinal polio
+A paralytic poliomyelitis that results_in destruction located_in motor neurons of spinal cord, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions
+difficulty breathing,paralysis of arms and legs
+
+human monocytic ehrlichiosis
+An ehrlichiosis that results_in infection located_in monocyte or located_in macrophage, has_material_basis_in Ehrlichia chaffeensis, which is transmitted_by black-legged tick (Ixodes scapularis), transmitted_by western black-legged tick (Ixodes pacificus) or transmitted_by castor bean tick (Ixodes ricinus,)
+headache,muscle aches,fatigue,fever and rash
+
+Israeli tick typhus
+A spotted fever that has_material_basis_in Rickettsia conorii subsp israelensis, which is transmitted_by ticks (Rhipicephalus sanguineus)
+fever,eschar,regional adenopathy,maculopapular rash on extremities
+
+sennetsu fever
+A primary bacterial infectious disease that results_in infection, has_material_basis_in Neorickettsia sennetsu, which is transmitted_by ingestion of raw or under-cooked gray mullet fish infected with the trematodes
+fever,malaise,anorexia,lymphadenopathy,hepatosplenomegaly,fatigue,chills,headache,backache and myalgia
+
+herpes zoster
+A viral infectious disease that results_in infection located_in nerve fiber, has_material_basis_in Human herpesvirus 3, which reactivates after appearing as chickenpox in childhood The virus is transmitted_by direct contact with the rash, which can develop into chickenpox in newly-infected individuals
+rash which is followed by blisters,headache,fever,malaise,itching,burning pain,paresthesia
+
+bird fancier's lung
+An extrinsic allergic alveolitis which is caused by inhalation of antigens from avian excreta
+abrupt onset of dyspnea,cough,malaise,fever,after exposure to antigen
+
+coxsackie myocarditis
+A coxsackie carditis that results_in inflammation located_in myocardium, has_material_basis_in group B coxsackievirus, which are transmitted_by ingestion of food contaminated with feces, transmitted_by contact with pharyngeal secretions, or transmitted_by droplet spread of oronasal secretions
+fever,lethargy,heart failure,pallor,cyanosis,dyspnea,tachycardia,enlargement of heart
+
+La Crosse encephalitis
+A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in La Crosse virus, which is transmitted_by treehole mosquito, Ochlerotatus triseriatus
+seizures,headache,fever,coma,paralysis
+
+Tahyna virus encephalitis
+A California virus encephalitis that results_in inflammation located_in brain, has_material_basis_in Tahyna virus, which is transmitted_by Aedes, transmitted_by Culex, and transmitted_by Ochlerotatus mosquitoes
+headache,fever,anorexia,seizures
+
+bovine virus diarrhea-mucosal disease
+A viral infectious disease that results_in infection in cattle, located_in intestine, has_material_basis_in Bovine viral diarrhea virus 1, which is transmitted_by ingestion of infected food, or transmitted_by nasal secretions
+lesions in the mucosa of digestive tract,necrosis of lymphoid tissue,hoof inflammation and dermatitis,diarrhea
+
+herpes zoster keratoconjunctivitis
+
+red eye,irritation,pain
+
+bovine hemorrhagic syndrome
+A viral infectious disease that results_in infection in cattle, has_material_basis_in Bovine viral diarrhea virus 2, which is transmitted_by ingestion of infected food, or transmitted_by nasal secretions
+low grade fever,bloody diarrhea,bleeding in the eyes
+
+anthrax disease
+
+skin ulcer,nausea,poor appetite,bloody diarrhea,fever or shortness of breath
+
+Neoscytalidium dimidiatum infectious disease
+
+rough nail,crumbly nail which can separate from the nail bed
+
+typhoidal tularemia
+
+fever,chills,myalgia,malaise,weight loss
+
+Yellow fever virus infectious disease
+A Flavivirus infectious disease that results_in infection, has_material_basis_in Yellow fever virus, which is transmitted_by mosquito bites
+fever,severe headache,back pain,muscle ache,nausea,weakness
+
+balantidiasis
+A parasitic protozoa infectious disease involving infection caused by Balantidium coli The trophozoites are capable of attacking the intestinal epithelium, creating ulcers and causing bloody diarrhea
+cramping,abdominal pain,nausea and foul breath
+
+Ebola hemorrhagic fever
+A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Zaire ebolavirus, has_material_basis_in Sudan ebolavirus, has_material_basis_in Cote d'Ivoire ebolavirus, or has_material_basis_in Bundibugyo ebolavirus, which are transmitted_by contact with the body fluids of an infected animal or person, transmitted_by contaminated fomites, or transmitted_by infected medical equipment
+fever,headache,joint pain,muscle aches,sore throat,weakness,diarrhea,vomiting,stomach pain,rash,red eyes,hiccups,internal and external bleeding
+
+Enterovirus gastroenteritis
+An Enterovirus infectious disease that results_in inflammation located_in stomach and located_in intestine, has_material_basis_in Human echovirus 11, which is transmitted_by contaminated drinking water
+diarrhea
+
+transmissible enteritis of turkeys
+A viral infectious disease that results_in inflammation located_in intestine of turkeys, has_material_basis_in Turkey coronavirus, which is transmitted_by ingestion of food contaminated with feces, or transmitted_by fomites contaminated with feces
+diarrhea,anorexia,decreased weight,depression
+
+tinea cruris
+
+itching in groin,thigh skin folds,or anus and results_in_formation_of rash which appears as raised red plaques (platelike areas) and scaly patches with sharply defined borders that may blister and ooze
+
+snowshoe hare encephalitis
+A California virus encephalitis that results_in inflammation located_in brain, has_material_basis_in Snowshoe hare virus, which is transmitted_by Aedes mosquitoes
+headache,fever,anorexia,seizures
+
+bulbospinal polio
+A paralytic poliomyelitis that results_in destruction located_in motor neurons of brainstem or located_in motor neurons of spinal cord, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted_by ingestion of food or water contaminated with feces, or transmitted_by direct contact with the oral secretions
+difficulty breathing,difficulty swallowing,paralysis of arms and legs
+
+aleutian mink disease
+A viral infectious disease that results_in inflammatory destruction located_in blood vessels of minks and rarely in humans, which has_material_basis_in Aleutian mink disease virus
+weight loss,hepatomegaly,enlarged spleen,anemia
+
+Lassa fever
+A viral infectious disease that results_in infection, has_material_basis_in Lassa virus, which is transmitted_by multimammate rat of the genus Mastomys
+fever,retrosternal pain,sore throat,back pain,cough,abdominal pain,vomiting,diarrhea,conjunctivitis,facial swelling,proteinuria (protein in the urine),mucosal bleeding
+
+cutaneous anthrax
+An anthrax disease that results_in infection located_in skin, has_material_basis_in Bacillus anthracis, which is transmitted_by contact with infected animals or animal products
+skin lesion that eventually forms an ulcer with a black center
+
+Chlamydophila psittaci pneumonia
+An ornithosis involving Chlamydophila psittaci infection, contracted by inhaling dust from the feathers or the waste of infected birds A cough develops, which is initially dry but later brings up greenish sputum
+fever,chills,fatigue,loss of appetite
+
+hepatitis C
+A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis C virus, which is transmitted_by blood from an infected person enters the body of an uninfected person
+fever,fatigue,loss of appetite,nausea,vomiting,abdominal pain,clay-colored bowel movements,joint pain,jaundice
+
+trench fever
+A primary bacterial infectious disease that results_in systemic infection, has_material_basis_in Bartonella quintana, which is transmitted_by body lice (Pediculus humanus corporis)
+relapsing fever,headache,shin pain,soreness of the muscles of the legs and back
+
+Ross River fever
+A viral infectious disease that results_in infection located_in joint, has_material_basis_in Ross River virus, which is transmitted_by Culex, and transmitted_by Aedes mosquitoes
+fever,arthralgia,rash
+
+trichorhinophalangeal syndrome type II
+An autosomal dominant disease that has_material_basis_in mutation of the EXT1 and TRPS1 gene which results_in multiple exostosis along with short stature and cone-shaped ends located_in epiphysis
+sparse scalp hair,thin upper lip,rounded nose
+
+pneumococcal peritonitis
+A pneumococcal infectious disease that involves inflammation of the peritoneum caused by streptococcal infection
+diarrhea,fever,fasciitis,influenza-like syndrome
+
+african horse sickness
+A viral infectious disease that results_in infection in horses, mules, donkeys and zebras located_in lung, has_material_basis_in African horsesickness virus, which is transmitted_by biting midge, Culicoides imicola, transmitted_by Culex mosquito, transmitted_by Anopheles mosquito, transmitted_by Aedes mosquito, transmitted_by Hyalomma tick, and transmitted_by Rhipicephalus tick
+tachypnea,forced expiration,profuse sweating,spasmodic coughing,ecchymoses on the tongue
+
+Oropouche fever
+A viral infectious disease that results_in infection, has_material_basis_in Oropouche virus, which is transmitted_by biting midge, Culicoides paraensis
+fever,chills,headache,anorexia,muscle pain,joint pain,vomiting
+
+inclusion conjunctivitis
+A commensal bacterial infectious disease that results_in inflammation, located_in conjunctiva of the eye, has_material_basis_in Chlamydia trachomatis, which is transmitted_by sexual contact
+swollen conjunctiva and eyelids and discharge of pus and mucus
+
+border disease
+A viral infectious disease that results_in infection in sheep and goats, has_material_basis_in Border disease virus, which is transmitted_by congenital method
+abortion,stillbirth,hairy fleece in lambs,abnormal body conformation
+
+infectious bovine rhinotracheitis
+
+nasal discharge,fever,abortion,conjunctivitis
+
+aneruptive fever
+A spotted fever that has_material_basis_in Rickettsia helvetica, which is transmitted_by ticks (Ixodes sp)
+fever,headache,myalgia
+
+epidermodysplasia verruciformis
+An autosomal recessive disease that results_in skin squamous cell carcinoma located_in skin, associated with a high risk of carcinoma
+lesions on the body
+
+pulmonary cryptococcosis
+
+cough,chest pain and difficulty breathing
+
+pharyngoconjunctival fever
+A viral infectious disease that results_in infection located_in pharynx or located_in conjunctiva, has_material_basis_in Human adenovirus 3 or has_material_basis_in Human adenovirus 7, which are transmitted_by droplet spread of respiratory secretions or transmitted_by fomites
+fever,lymphadenopathy of the neck,headache
+
+hymenolepiasis
+A parasitic helminthiasis infectious disease that involves infection of the bowel by Hymenolepis nana or Hymenolepis diminuta
+diarrhea,gastrointestinal discomfort,itchy anus,poor appetite,weakness
+
+vulvar condylomata acuminata
+An anogenital venereal wart that results_in infection located_in skin of vulva, has_material_basis_in human papillomaviruses (types 6 and 11), which are transmitted_by direct sexual contact with the skin of an infected partner
+vulvar warts
+
+swine vesicular disease
+An Enterovirus infectious disease that results_in infection, has_material_basis_in Swine vesicular disease virus, which is transmitted_by ingestion of contaminated food, or transmitted_by contact with an infected animal
+lameness
+
+allergic bronchopulmonary aspergillosis
+An aspergillosis that involves an allergic reaction due to the spores of Aspergillus moulds (A fumigatus), which colonizes the mucus in the airways causing inflammation
+cough,wheezing and fever
+
+Brucella suis brucellosis
+A brucellosis that involves an infection caused by Brucella suis [NCBITaxon:29461] in swine and humans
+fever,chills,malaise,diaphoresis,arthralgia,myalgia,headache,anorexia,fatigue
+
+chancroid
+A primary bacterial infectious disease that is a sexually transmitted infection located_in skin of the genitals, has_material_basis_in Haemophilus ducreyi, which is transmitted_by sexual contact
+painful and soft ulcers
+
+ankylosing spondylitis
+A bone inflammation disease that results_in inflammation in the joints of the spine and pelvis
+pain,stiffness in the spine,stiffness in the neck,stiffness in the hips,stiffness in the jaw and stiffness in the rib cage
+
+visceral leishmaniasis
+A leishmaniasis that is the most severe form of the disease caused by protozoan parasites of the Leishmania genus, resulting in the infection of the internal organs such as liver, spleen and bone marrow
+fever,weight loss,an enlarged spleen,liver
+
+ephemeral fever
+A viral infectious disease that results_in infection in cattle, has_material_basis_in Bovine ephemeral fever virus, which is transmitted_by Culex, transmitted_by Anopheles, and transmitted_by Culicoides arthropods
+fever,stiffness,lameness,nasal discharge,ocular discharge,depression,cessation of rumination,constipation
+
+candidal pneumonia
+A candidiasis that involves inflammation of the lung caused by Candida species either by hematogenous dissemination or by bronchial extension in patients with oropharyngeal candidiasis
+fever,tachypnea,dyspnea,chest pain
+
+equine encephalitis
+An Alphavirus infectious disease that results_in inflammation located_in brain of horses and humans, has_material_basis_in Eastern equine encephalitis virus, has_material_basis_in Venezuelan equine encephalitis virus, or has_material_basis_in Western equine encephalomyelitis virus, which are transmitted_by moquito bite
+fever,headache,malaise
+
+lumpy skin disease
+
+fever,lymphadenopathy
+
+Lymphocytic choriomeningitis virus meningitis
+A lymphocytic choriomeningitis that results_in inflammation located_in meninges, has_material_basis_in Lymphocytic choriomeningitis virus, which is transmitted_by common house mouse, Mus musculus
+fever,headache,stiff neck
+
+staphylococcal enterocolitis
+A staphylococcal infectious disease that involves infection of the intestine caused by staphylococci, which produce toxins
+diarrhea,abdominal pain,vomiting,nausea
+
+adenoid hypertrophy
+
+snoring,hyponasality,otitis media with effusion,has symptom mouth breathing
+
+lujo hemorrhagic fever
+
+bleeding
+
+clonorchiasis
+A parasitic helminthiasis infectious disease that involves parasitic infection of the bile ducts of the liver by Clonorchis sinensis In long-standing infections, cholangitis, cholelithiasis, pancreatitis, and cholangiocarcinoma can develop
+abdominal pain,nausea,diarrhea,eosinophilia
+
+histoplasmosis
+
+nonproductive cough,headache,loss of appetite and muscle pains
+
+penicilliosis
+
+fever,anemia,weight loss,lymphadenopathy,hepatosplenomegaly,respiratory signs,skin lesions
+
+anogenital venereal wart
+A viral infectious disease that results_in infection located_in skin of vagina, cervix, uterus, anus, penis, scrotum, mouth, and throat, has_material_basis_in human papillomaviruses (types 6 and 11), which are transmitted_by direct contact with the skin during oral, genital, or anal sex with an infected partner
+anogenital warts
+
+Varicella-zoster virus hepatitis
+
+skin rash,oral lesions,severe abdominal and back pain,fever,chills,malaise,fatigue
+
+Phlebotomus fever
+A viral infectious disease that results_in infection, has_material_basis_in Sandfly fever Naples virus, or has_material_basis_in Sandfly fever sicilian virus, which are transmitted_by Phlebotomus papatasi sandfly
+fever,severe frontal headaches,muscle ache,joint aches,flushing of the face,tachycardia
+
+Varicella-zoster virus encephalitis
+
+lethargy,rash,confusion,hallucinations,weakness,paralysis,numbness,parasthesias
+
+rabies
+A viral infectious disease that results_in inflammation located_in brain or located_in spinal cord, has_material_basis_in Rabies virus, which is transmitted_by bite of an infected animal, or transmitted_by contact of mucous membranes with saliva of an infected animal
+fever,headache,prickling or itching sensation at the site of bite,anxiety,confusion,agitation,delirium,difficulty swallowing,hydrophobia,paralysis
+
+gonorrhea
+A primary bacterial infectious disease that is a sexually transmitted infection, located_in uterus, located_in fallopian tube, located_in urethra, located_in mouth, located_in throat, located_in eye or located_in anus, has_material_basis_in Neisseria gonorrhoeae, which is transmitted_by contact with the penis, vagina, mouth, or anus or transmitted_by congenitally from mother to baby during delivery
+burning sensation during urination,discharge from the penis,increased vaginal discharge,or vaginal bleeding between periods
+
+louping ill
+A viral infectious disease that results_in infection in sheep and rarely humans, has_material_basis_in Louping ill virus, which is transmitted_by sheep tick, Ixodes ricinus
+lethargy,muscle pains,fever,focal neurological signs
+
+Histoplasma duboisii endocarditis
+
+murmurs,peripheral edema,pulmonary rales,petechia and skin lesions
+
+Brucella abortus brucellosis
+A brucellosis that involves an infection caused by Brucella abortus [NCBITaxon:235] in cattle and humans
+fever,chills,sweats,weight loss,malaise,headaches,myalgia,arthralgia
+
+trivittatus encephalitis
+A California virus encephalitis that results_in inflammation located_in brain, has_material_basis_in Trivittatus virus, which is transmitted_by Ochlerotatus trivittatus mosquito
+headache,fever,disorientation,tremors,convulsions,paralysis,coma
+
+Ancylostoma duodenale ancylostomiasis
+An ancylostomiasis that involves parasitic infection of the small intestine in humans, cats and dogs by the nematode Ancylostoma duodenale
+abdominal pain,loss of appetite,geophagy,anemia
+
+echinostomiasis
+A parasitic helminthiasis infectious disease that involves parasitic infection of the intestine by Echinostoma species
+nausea,vomiting,diarrhea,fever,abdominal pain
+
+multiple epiphyseal dysplasia
+An osteochondrodysplasia that has_material_basis_in defective cartilage mineralization into bone which results_in irregular ossification centers of the located_in hip or located_in knee
+fatigue,joint pain
+
+sleeping sickness
+A trypanosomiasis that results from infection by Trypanosoma brucei and gambiense, which is transmitted by the bite of an infected tsetse fly (Glossina spp)
+fever,headache,joint pain,itching,confusion,sensory disturbances,poor coordination,sleep disturbances
+
+bovine trypanosomiasis
+A trypanosomiasis that involves infection of cattle caused by Trypanosoma vivax, which is transmitted by tsetse flies
+fever,anemia,abortion,loss of appetite,lethargy,progressive weight loss
+
+Wuchereria bancrofti filariasis
+A filarial elephantiasis that involves parasitic infection of the lymphatic system by a filarial worm Wuchereria bancrofti, which is transmitted by mosquitoes
+lymphedema,fever,chills,skin infections,painful lymph nodes,orchitis,epididymitis
+
+Varicella-zoster virus pneumonia
+
+rash,tachypnea,chest tightness,cough,dyspnea,fever,pleuretic chest pain,hemoptysis
+
+pleural empyema
+A soft tissue infectious disease that involves accumulation of pus in the pleural cavity as a result of infection within the lung (pneumonia) or a lung abscess spreading into the space
+cough,fever,chest pain,sweating,shortness of breath
+
+Bordetella parapertussis whooping cough
+A pertussis that is a milder disease caused by the bacterium Bordetella parapertussis
+coughing,sneezing,or runny nose 
+
+Mumps virus pancreatitis
+A Mumps virus infectious disease that results_in inflammation located_in pancreas, has_material_basis_in Mumps virus, which is transmitted_by droplet spread of saliva or mucus from the mouth, nose, or throat of an infected person, or transmitted_by contaminated fomites
+abdominal pain,chills,fever,persistent vomiting
+
+paratyphoid fever
+A primary bacterial infectious disease that results_in infection located_in intestine, has_material_basis_in Salmonella enterica subsp enterica serovar Paratyphi A, B or C, which are transmitted_by ingestion of contaminated food
+fever,headache,abdominal pain,malaise,anorexia,constipation,rosy spots on the central body,non productive cough (in early stage of illness),bradycardia,hepatosplenomegaly
+
+coxsackievirus infectious disease
+An Enterovirus infectious disease that results_in infection, has_material_basis_in group A coxsackievirus or has_material_basis_in group B coxsackievirus, which are transmitted_by ingestion of food contaminated with feces, transmitted_by contact with pharyngeal secretions, or transmitted_by droplet spread of oronasal secretions
+paralysis,myositis,degeneration of neuronal tissue
+
+primary pulmonary coccidioidomycosis
+
+pleuritic chest pain,respiratory failure,pleural effusion,results_in_formation_of pulmonary nodules
+
+cryptosporidiosis
+ Cryptosporidium infections have also been found in other digestive tract organs, the lungs, and conjunctiva Immunocompromised persons are at greater risk of developing the infection
+olves a parasitic protozoan infection of the intestine of humans,a wide range of animals caused by Cryptosporidium species,through contaminated water,food,The symptoms include watery diarrhea,dehydration,weight loss,abdominal pain,fever,nausea,vomiting
+
+swine influenza
+An influenza that results_in infection located_in respiratory tract of pigs and humans, has_material_basis_in Influenza C virus, or has_material_basis_in Influenza A virus subtypes (H1N1, H1N2, H3N1, H3N2, and H2N3), which are transmitted_by direct contact with infected pigs
+fever,lethargy,lack of appetite,coughing,runny nose,sore throat,nausea,vomiting,diarrhea
+
+rhinocerebral mucormycosis
+
+orbital cellulitis,proptosis,pus discharge from the nose,seizures
+
+Salmonella arizonae intestinal infectious disease
+A Salmonella infectious disease that involves infection of the intestine caused by Salmonella enterica subsp arizonae, which is a gut inhabitant of reptiles
+fever,headache,abdominal pain,vomiting,diarrhea
+
+influenza virus pneumonia
+A viral infectious disease that results_in inflammation located_in lung, has_material_basis_in Influenza A virus, has_material_basis_in Influenza B virus, or has_material_basis_in Influenza C virus, which can directly damage the respiratory epithelium, allowing free access to invading bacteria The mucous membranes are covered with foamy, bloody fluid from the pulmonary edema in the more acute cases Interstitial fibrosis has been observed
+cough,pain in the chest and throughout body,headache,weakness,chills
+
+toxascariasis
+A parasitic helminthiasis infectious disease that involves parasitic infection of dogs, cats and foxes with Toxascaris leonina causing damage to the lining of the intestine
+diarrhea,vomiting,loss of appetite
+
+Staphylococcus gastroenteritis
+A staphylococcal infectious disease that is caused by ingestion of food containing enterotoxins, which are produced by staphylococcal species
+abdominal cramps,diarrhea,headache,fever
+
+eczema herpeticum
+A herpes simplex that results_in infection located_in skin, effected by preexisting dermatosis, has_material_basis_in Human herpesvirus 1 or Human herpesvirus 2
+watery blisters,fever,swelling of the lymph nodes
+
+histoplasmosis endocarditis
+
+murmurs,peripheral edema,pulmonary rales,petechia and skin lesions
+
+Q fever
+A primary bacterial infectious disease that is a zoonotic infectious disease affecting multiple organs, has_material_basis_in Coxiella burnetii, which is transmitted_by inhalation of air contaminated by barnyard dust containing dried placental material, birth fluids, or excreta of infected herd animals, transmitted_by ingestion of contaminated milk, transmitted_by tick bites and transmitted_by contact with infected person
+fever,headache,cough,pleuritic chest pain,myalgia and arthralgia
+
+epidemic pleurodynia
+A viral infectious disease that results_in necrosis located_in intercostal muscle, has_material_basis_in Human enterovirus B
+severe chest pain,fever,malaise,pleuritis,headache
+
+coccidioidal meningitis
+
+headache,alterations in sensorium,obstructing hydrocephalus
+
+ileocolitis
+
+diarrhea,weight loss,abdominal pain in middle or lower right part
+
+bronchitis
+A bronchial disease that is an inflammation of the bronchial tubes It is caused by bacteria and viruses
+cough with mucus,shortness of breath,low fever and chest tightness
+
+nephropathia epidemica
+A hemorrhagic fever with renal syndrome that results_in infection located_in kidney, has_material_basis_in Puumala virus, which is transmitted_by bank vole, Myodes glareolus [NCBITaxon:447135]
+headache,nausea,back pain,vomiting,myalgia,abdominal pain,internal hemorrhage,renal failure
+
+Histoplasma capsulatum pericarditis
+
+pleural effusions,chest pain and cough
+
+granuloma inguinale
+A primary bacterial infectious disease that results_in infection located_in skin or located_in mucosa of genital tract, has_material_basis_in Klebsiella granulomatis, transmitted by sexual contact or transmitted_by contact with the open sores
+painless genital ulcers
+
+herpes zoster otitis externa
+
+pain in the outer ear,ear discharge
+
+progressive multifocal leukoencephalopathy
+A viral infectious disease that involves reactivation of JC polyomavirus in immune-compromised individuals which causes the loss of white matter (which is made up of myelin, a substance the surrounds and protects nerve fibers) in multiple areas of the brain
+hemiparesis,aphasia,dysarthria,hemianopia,cognitive impairment,coma
+
+Escherichia coli intestinal infectious disease
+A primary bacterial infectious disease that involves infection of the intestine by the bacterium Escherichia coli, caused by consumption of contaminated food and water Some strains of Escherichia coli produce Shiga toxin, which cause severe illness
+severe stomach cramps,fever,diarrhea (sometimes bloody),vomiting
+
+adenovirus encephalitis
+An adenovirus infectious disease that results_in inflammation located_in brain, has_material_basis_in Human adenovirus 2 or has_material_basis_in Human adenovirus 4
+fever,stupor,nuchal rigidity,loss of consciousness,seizures
+
+inkoo encephalitis
+A California virus encephalitis that results_in inflammation located_in brain, has_material_basis_in Inkoo virus, which is transmitted_by Ochlerotatus communis mosquito
+stiff neck,lethargy,headache,fever,seizures
+
+pharyngitis
+An upper respiratory tract disease involving inflammation of the throat or pharynx resulting from bacterial, viral, fungal infections or irritants like pollutants or chemical substances and smoking The infection is often referred to as "sore throat"
+pain during swallowing,enlarged tonsils coated with a white discharge,runny nose,cough,slight fever
+
+viral gastritis
+A gastrointestinal system infectious disease that involves inflammation of the stomach lining caused by viruses
+abdominal pain,indigestion,ulcer formation,abdominal bloating,nausea,vomiting
+
+onchocerciasis
+A filariasis that involves parasitic infection caused by the nematode Onchocerca volvulus, which is transmitted to humans through the bite of a blackfly of the genus Simulium The worms spread throughout the body and, when they die, cause intense itching and a strong immune system response that can destroy nearby tissue
+pruritus,dermatitis,blindness,onchocercomata (subcutaneous nodules),lymphadenopathy
+
+Herpes simplex virus encephalitis
+A Simplexvirus infectious disease that results_in infection located_in brain, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2
+headache,fever,personality and behavioral changes,seizures,partial paralysis,hallucinations
+
+adenovirus meningitis
+
+fever,headache,stiff neck,confusion
+
+Klebsiella pneumonia
+A commensal bacterial infectious disease involving Klebsiella pneumoniae infection Patients with Klebsiella pneumonia tend to cough up a characteristic sputum that is said to resemble "red-currant jelly" Klebsiella pneumonia tends to affect people with underlying diseases, such as alcoholism, diabetes and chronic lung disease
+high fever,rigors,pleuritic pain,hemoptysis
+
+African swine fever
+A viral infectious disease that results_in infection in pigs, has_material_basis_in African swine fever virus, which is transmitted_by contact with sick animals or transmitted_by ingestion of contaminated food containing infected meat, or transmitted_by ticks of the genus Ornithodoros
+fever,reddening of the skin,leukopenia,thrombocytopenia
+
+celiac disease
+An autoimmune disease of gastrointestinal tract that is caused by a reaction located_in small intestine to gliadin, a prolamin (gluten protein) found in wheat, and similar proteins found in the crops of the tribe Triticeae The disease is associated with HLA-DQ gene
+abdominal pain,constipation,diarrhea,nausea and vomiting,loss of appetite
+
+pestis minor
+
+fever,lymphadenitis,headache and prostration
+
+esophageal tuberculosis
+A gastrointestinal tuberculosis that involves formation of tuberculous ulcers located_in esophagus
+dysphagia,cough,chest pain,fever and weight loss
+
+Nairobi sheep disease
+A viral infectious disease that results_in inflammation located_in stomach and located_in intestine of sheep and goats, has_material_basis_in Nairobi sheep disease virus, which is transmitted_by Rhipicephalus appendiculatus ticks
+fever,leukopenia,rapid respiration,anorexia,profound depression,diarrhea,dehydration
+
+Queensland tick typhus
+A spotted fever that has_material_basis_in Rickettsia australis, which is transmitted_by ticks (Ixodes holocyclus)
+fever,headache,myalgia,maculopapular rash,lymphadenopathy
+
+Omsk hemorrhagic fever
+A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Omsk hemorrhagic fever virus, which is transmitted_by Dermacentor and transmitted_by Ixodes species of ticks
+fever,chills,headache,pain in lower and upper extremities,stiff neck,papulovesicular rash on the soft palate,cervical lymphadenopathy,conjunctival suffusion,blood in the urine,blood in the sputum
+
+yaws
+A primary bacterial infectious disease that results_in infection located_in skin, located_in joint or located_in bone, has_material_basis_in Treponema pallidum subsp pertenue, which is transmitted_by direct skin contact with an infected person
+skin lesions
+
+Kawasaki disease
+
+fever,congestion of ocular conjunctivae,reddening of lips,reddening of oral cavity,protuberance of tongue papillae and edema of extremities
+
+Marburg hemorrhagic fever
+A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Marburgvirus, which is transmitted_by contact with the body fluids of an infected person
+fever,chills,headache,myalgia,maculopapular rash on the trunk,nausea,vomiting,chest pain,sore throat,abdominal pain,diarrhea,bleeding
+
+uterine cervix condylomata acuminata
+An anogenital venereal wart that results_in infection located_in cervix, has_material_basis_in human papillomaviruses (types 6 and 11), which are transmitted_by direct sexual contact with the skin of an infected partner
+cervical warts
+
+Cytomegalovirus colitis
+
+watery or bloody diarrhea,abdominal pain,fever,weight loss
+
+Alkhurma hemorrhagic fever
+A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Alkhurma hemorrhagic fever virus, which is transmitted_by Ornithodoros savignyi tick bite, transmitted_by ingestion of unpasteurized camel milk, or transmitted_by entry via skin wound
+headache,joint pain,muscle pain,vomiting,thrombocytopenia,hemorrhagic fever
+
+acute porphyria
+
+abdominal pain,neuropathy,autonomic instability and psychosis
+
+influenza virus encephalitis
+A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Influenza A virus or has_material_basis_in Influenza B virus, which are transmitted_by droplet spread of oronasal secretions during coughing, sneezing, or talking from an infected person
+fever,reduced consciousness,ocular muscle palsies
+
+Bacillus cereus gastroenteritis
+A primary Bacillaceae infectious disease that is caused by ingestion of food contaminated with Bacillus cereus, which produces enterotoxins in the intestine
+vomiting,abdominal cramps,fever,diarrhea
+
+Measles virus otitis media
+A Measles virus infectious disease that results_in inflammation located_in middle ear, has_material_basis_in Measles virus, which is transmitted_by contact with oronasal secretions, or semen of an infected person
+pain in the ear
+
+herpes zoster iridocyclitis
+
+photophobia,redness,lacrimation,blurres vision
+
+pulmonary sporotrichosis
+
+productive cough,nodules and cavitations of the lungs,fibrosis,swollen hilar lymph nodes
+
+coxsackievirus encephalitis
+An Enterovirus infectious disease that involves inflammation located_in brain, has_material_basis_in group A coxsackievirus or has_material_basis_in group B coxsackievirus, which are transmitted_by ingestion of food contaminated with feces, transmitted_by contact with pharyngeal secretions, or transmitted_by droplet spread of oronasal secretions
+reduced level of consciousness,confusion,irritability,seizures,coma
+
+cutaneous mucormycosis
+
+necrotic lesions which progressively evolve from the epidermis into dermis and even muscle
+
+bluetongue
+A viral infectious disease that results_in infection in ruminants, has_material_basis_in Bluetongue virus, which is transmitted_by Culicoides imicola midge
+fever,excessive salivation,swelling of the face and tongue,cyanosis of the tongue
+
+adenovirus hepatitis
+An adenovirus infectious disease that involves inflammation of the liver caused by Human adenovirus 1, has_material_basis_in Human adenovirus 2, or has_material_basis_in Human adenovirus 5 Histopathological examination reveals widespread hepatic necrosis with hemorrhage
+fever,coagulopathy,gastrointestinal bleeding
+
+Cytomegalovirus gastritis
+
+dyspepsia,nausea and vomiting
+
+boutonneuse fever
+A spotted fever that has_material_basis_in Rickettsia conorii subsp conorii, which is transmitted_by dog tick (Rhipicephalus sanguineus)
+fever,eschar (usually single),regional adenopathy,maculopapular rash on extremities
+
+postpoliomyelitis syndrome
+A poliomyelitis that results_in atrophy located_in muscle, many years after the initial infection, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3 It is characterized by new weakening in muscles that were previously affected by the polio infection and in muscles that were unaffected
+muscle weakness,muscle pain,sleep apnea,breathing problems
+
+Bolivian hemorrhagic fever
+A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Machupo virus, which is transmitted_by vesper mouse, Calomys callosus
+fever,headache,fatigue,myalgia,arthralgia,bleeding from the oral and nasal mucosa,bleeding from the bronchopulmonary,gastrointestinal and genitourinary tracts
+
+histoplasmosis pneumonia
+
+mediastinal lymphadenopathy,cough and chest pain
+
+Brucella melitensis brucellosis
+A brucellosis that involves an infection caused by Brucella melitensis [NCBITaxon:29459] in cattle, goats, sheep and humans
+fever,malaise,anorexia,limb pain and back pain
+
+oropharyngeal anthrax
+A gastrointestinal anthrax that results_in infection located_in mucosa of oropharynx, has_material_basis_in Bacillus anthracis, which is transmitted_by ingestion of anthrax-infected meat
+lesions,vomiting of blood,severe diarrhea,loss of appetite
+
+Cytomegalovirus encephalitis
+
+confusional syndrome,seizures,coma,dysphasia,cranial nerve palsies
+
+porcine reproductive and respiratory syndrome
+A viral infectious disease that results_in infection causing reproductive failure of sows and respiratory problems of piglets and growing pigs, has_material_basis_in Porcine reproductive and respiratory syndrome virus, which is transmitted_by contact with feces, urine and semen of infected pigs, and transmitted_by fomites
+stillborn piglets,mummified fetuses,premature farrowings,weak-born pigs,pneumonia
+
+cat-scratch disease
+A bartonellosis that results_in infection located_in lymph node, has_material_basis_in Bartonella henselae or has_material_basis_in Bartonella clarridgeiae, which are transmitted_by scratch or bite of a kitten, or transmitted_by contact of animal's saliva with an eye or through broken skin
+regional lymphadenopathy,headache,chills,backache,abdominal pain
+
+Mumps virus hepatitis
+A Mumps virus infectious disease that results_in inflammation located_in liver, has_material_basis_in Mumps virus, which is transmitted_by contact with the oronasal secretions of an infected person
+fever,nausea,anorexia,dark urine
+
+Clostridium difficile intestinal infectious disease
+A commensal bacterial infectious disease that involves infection of the intestine by the bacterium Clostridium difficile, which causes diarrhea, pseudomembranous colitis, toxic megacolon, intestinal perforation and sepsis
+fever,loss of appetite,nausea,abdominal pain
+
+hepatitis D
+A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis delta virus, which is an incomplete virus that requires the helper function of Hepatitis B virus to replicate and only occurs among people who are infected with the Hepatitis B virus
+fatigue,lethargy,anorexia,nausea,jaundice,clay-colored stools,dark urine,changes in personality,disturbances in sleep,confusion,abnormal behavior,somnolence,coma
+
+Coxiella burnetii pneumonia
+A Q fever that is a zoonotic infectious disease caused by Coxiella burnetii, a bacterium which affects both humans and animals Infection of humans usually occurs by inhalation of these organisms from air that contains airborne barnyard dust contaminated by dried placental material, birth fluids, or excreta of infected herd animals, ingestion of contaminated milk, tick bites and human to human transmission
+fever,headache,cough,pleuritic chest pain,myalgia,arthralgia
+
+enzootic porcine encephalomyelitis
+A viral infectious disease that results_in inflammation located_in brain and located_in spinal cord of pigs, has_material_basis_in Porcine teschovirus, which is transmitted_by ingestion of contaminated food, and transmitted_by contaminated fomites
+fever,anorexia,depression,incoordination,paralysis,muscle tremors,stiffness,nystagmus,seizures,loss of the voice
+
+Cytomegalovirus pneumonia
+ Cytomegalovirus infection can be demonstrated microscopically by the detection of intranuclear inclusion bodies
+cough,fatigue,shortness of breath,hypoxemia
+
+Brugia malayi filariasis
+A filarial elephantiasis that involves parasitic infection by the nematode Brugia malayi, which inhabits the lymphatics
+fever,lymphadenitis,lymphangitis,lymphedema,secondary bacterial infection
+
+tuberculous epididymitis
+
+pain and scrotal swelling
+
+mumps
+A viral infectious disease that results_in inflammation located_in salivary gland, has_material_basis_in Mumps virus, which is transmitted_by droplet spread of saliva or mucus from the mouth, nose, or throat of an infected person, or transmitted_by contaminated fomites
+fever,headache,muscle aches,tiredness,loss of appetite,swollen and tender salivary glands under the ears or jaw on one or both sides of the face
+
+genital herpes
+A herpes simplex that results_in infection located_in genital system, or located_in rectum, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2, which is transmitted_by sexual contact
+sores,fever,swollen glands
+
+peritonitis
+A gastrointestinal system disease that involves inflammation of the peritoneum resulting from perforation of the gastrointestinal tract, which produces immediate chemical inflammation followed shortly by infection from intestinal organisms Peritonitis can also result from appendicitis, diverticulitis, strangulating intestinal obstruction, pancreatitis, pelvic inflammatory disease, mesenteric ischemia, intraperitoneal blood, barium, or peritoneo-systemic shunts, drains, and dialysis catheters in the peritoneal cavity
+abdominal pain,tenderness,fever,fluid in the abdomen,nausea,vomiting,low urine output
+
+hepatitis E
+A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis E virus, which is transmitted_by ingestion of contaminated food
+fever,fatigue,loss of appetite,nausea,vomiting,abdominal pain,clay-colored bowel movements,dark urine,joint pain,jaundice
+
+fowlpox
+
+lesions on the skin,diphtheritic lesions in the upper parts of the digestive and respiratory tracts
+
+Trichophyton schoenleinii tinea capitis
+A tinea favosa that results_in anthropophilic fungal infection located_in scalp, has_material_basis_in Trichophyton schoenleinii
+permanent hair loss
+
+Powassan encephalitis
+A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Powassan virus, which is transmitted_by Ixodes and transmitted_by Dermacentor species of ticks
+headache,fever,vomiting,stiff neck,sleepiness,breathing distress,tremors,confusion,seizures,paralysis,coma
+
+Venezuelan hemorrhagic fever
+A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Guanarito virus, which is transmitted_by cotton rat, Sigmodon alstoni and transmitted_by cane mouse, Zygodontomys brevicauda
+fever,headache,myalgia,sore throat,weakness,anorexia,nausea,vomiting,convulsions,epistaxis,bleeding gums,hematemesis,melena,menorrhagia
+
+bacterial gastritis
+A gastritis that involves inflammation of the stomach lining caused by bacteria
+abdominal pain,indigestion,ulcer formation,abdominal bloating,nausea and vomiting
+
+intrinsic asthma
+An asthma that is triggered by factors not related to allergies such as anxiety, stress, exercise, cold air, dry air, hyperventilation, smoke, viruses, chemical irritants, autonomic imbalance, hormonal deficiencies and psychogenic influences It is characterized by airway obstruction and inflammation that is at least partially reversible with medication
+coughing,wheezing,shortness of breath or rapid breathing,chest tightness
+
+Herpes simplex virus iridocyclitis
+
+redness,photophobia,lacrimation,blurred vision
+
+spotted fever
+A primary bacterial infectious disease that results_in infection, located_in endothelial cell of artery or located_in endothelial cell of vein, has_material_basis_in Rickettsia, which is transmitted_by ticks and mites A distinctive eschar (blackened or crusted skin) may develop at the site of a tick bite
+fever,headache,fatigue,muscle aches,maculopapular or petechial rash
+
+Herpes simplex virus septicemia
+A Simplexvirus infectious disease that results in inflammatory response by the immune system of the body to Human herpesvirus 1 or Human herpesvirus 2 in the blood, urine, lungs, skin, or other tissues
+fever,chills,rapid breathing,rapid heart rate
+
+hepatitis A
+A viral infectious disease that results_in inflammation located_in liver, has_material_basis_in Hepatitis A virus, which is transmitted_by ingestion of contaminated food or water, or transmitted_by direct contact with an infected person
+fever,fatigue,loss of appetite,nausea,vomiting,abdominal pain,clay-colored bowel movements,joint pain,jaundice
+
+Mycoplasma pneumoniae pneumonia
+A mycoplasmal pneumonia that is caused by the bacterial species Mycoplasma pneumoniae
+chest pain,chills,dry cough which is not bloody,excessive sweating,fever,headache,sore throat
+
+Rotavirus gastroenteritis
+A viral infectious disease that results_in inflammation located_in stomach and located_in intestine, has_material_basis_in Rotavirus, which is transmitted_by ingestion of contaminated food or water, or transmitted_by fomites
+fever,vomiting,diarrhea,abdominal pain
+
+Rubella virus encephalitis
+A Rubella virus infectious disease that results_in inflammation located_in brain, has_material_basis_in Rubella virus, which is transmitted_by droplet spread of oronasal secretions from the infected person through coughing and sneezing, and transmitted_by congenital method
+confusion,drowsiness,delirium,convulsions,cranial nerve palsies,coma
+
+Trichomonas vaginitis
+A Trichomonas vaginalis trichomoniasis that involves inflammation of the vagina caused by Trichomonas vaginalis
+foul vaginal odor,burning during urination,vaginal discharge,irritation of the genital area
+
+Cytomegalovirus esophagitis
+
+odynophagia,nausea and vomiting,fever,diarrhea,hemoptysis
+
+herpes zoster eyelid dermatitis
+
+rash after the reactivation of latent virus years after the primary infection
+
+influenza
+A viral infectious disease that results_in infection, located_in respiratory tract, has_material_basis_in Influenzavirus A, has_material_basis_in Influenzavirus B, or has_material_basis_in Influenzavirus C, which are transmitted_by droplet spread of oronasal secretions during coughing, sneezing, or talking from an infected person
+chills,fever,sore throat,runny nose,muscle pains,severe headache,cough,weakness
+
+Western equine encephalitis
+A viral infectious disease that results_in inflammation located_in brain of horses and humans, has_material_basis_in Western equine encephalomyelitis virus, which is transmitted_by Culex and transmitted_by Aedes species of mosquitoes
+fever,headache,nausea,vomiting,anorexia,malaise,altered mental status,weakness
+
+cork-handlers' disease
+An extrinsic allergic alveolitis caused by inhalation of cork dust containing the antigens produced by the fungus Penicillium glabrum
+dyspnea,wheezing cough,fever,asthenia
+
+monkeypox
+A viral infectious disease that results_in infection of primates, rodents and humans, located_in skin, has_material_basis_in Monkeypox virus, which is transmitted_by contact with the animal's blood, body fluids, rash, or with the body fluids of a sick person, transmitted_by fomites, and transmitted_by respiratory droplets
+fever,muscle ache,headache,lymphadenopathy
+
+yellow fever hepatitis
+A Yellow fever virus infectious disease that results_in inflammation located_in liver, has_material_basis_in Yellow fever virus
+fever,chills,headache,myalgia,weakness,nausea,vomiting,jaundice,hemorrhagic manifestations
+
+primary amebic meningoencephalitis
+A parasitic protozoa infectious disease that involves infection of the central nervous system caused by Naegleria fowleri
+headache,nausea,rigidity of the neck muscles,vomiting,delirium,seizures,coma
+
+foodborne botulism
+A botulism that involves intoxication caused by botulinum neurotoxins (BoNTA, B, E and F), which are transmitted_by ingestion of food contaminated with preformed toxins, has_material_basis_in Clostridium botulinum A, has_material_basis_in Clostridium botulinum B, has_material_basis_in Clostridium botulinum E and has_material_basis_in Clostridium botulinum F
+blurred vision,diplopia,dysarthria,dysphonia,dysphagia and descending muscle paralysis
+
+herpes zoster meningitis
+A Varicellovirus infectious disease that results_in inflammation located_in meninges, has_material_basis_in Human herpesvirus 3, which reactivates after the primary infection
+fever,headache,cervical rigidity,seizure,ataxia,skin lesions
+
+Japanese encephalitis
+A viral infectious disease that results_in infection located_in brain, has_material_basis_in Japanese encephalitis virus, which is transmitted_by Culex tritaeniorhynchus mosquito bite
+headache,high fever,neck stiffness,stupor,disorientation,coma,tremors,convulsions,spastic paralysis
+
+tuberculous lung cavity
+A pulmonary tuberculosis characterized by tubercles formation which coalesce into consolidated areas Caseation and softening of these areas, with involvement of the interstitial tissue, lead to the formation of a cavity
+fever,increased cough,sputum

@@ -42,22 +42,22 @@ class Antecedant (models.Model):
 	models.ForeignKey(Patient, on_delete=models.CASCADE)
 
 class Symptome (models.Model):
-	nomSymptome = models.CharField(max_length=20, unique=True)
+	nomSymptome = models.CharField(max_length=254, unique=True)
 
 	class Meta:
 		ordering = ('nomSymptome',) #Les résultats d'une requête devrait être rangé par ordre alphabétique
 
 class Maladie(models.Model):	
-	nomMaladie = models.CharField(max_length=50, verbose_name="Nom", unique=True)
+	nomMaladie = models.CharField(max_length=254,verbose_name="Nom")
 	description = models.TextField(verbose_name="Description")
 
 	symptomes = models.ManyToManyField(Symptome)
-
 	class Meta:
 		ordering = ('nomMaladie',)
 
 	def save(self):
 		from search.models import MedicalData
+		print(self.nomMaladie)
 		maladie = MedicalData(nomMaladie = self.nomMaladie)
 		maladie.save()
 		super().save()

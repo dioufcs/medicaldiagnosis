@@ -3,7 +3,7 @@ from dashboard.models import Maladie
 from django.db.models.signals import m2m_changed
 
 class MedicalData(models.Model):
-	nomMaladie = models.CharField(max_length=50, unique=True)
+	nomMaladie = models.CharField(max_length=254, unique=True)
 	listeSymptomes = models.TextField(blank=True)
 
 
