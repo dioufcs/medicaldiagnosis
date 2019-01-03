@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django_elasticsearch_dsl',
+    'widget_tweaks'
 ]
 
 MIDDLEWARE = [
@@ -153,3 +154,7 @@ EMAIL_USE_TLS = True
 EMAIL_FILE_PATH = os.path.join(BASE_DIR, "sent_emails")
 
 STATICFILES_DIRS = [(os.path.join(BASE_DIR, "static"))]
+
+#Faire expirer la session au bout de 5 minutes
+SESSION_EXPIRE_AT_BROWSER_CLOSE = True
+#SESSION_COOKIE_AGE = 5 * 60 #

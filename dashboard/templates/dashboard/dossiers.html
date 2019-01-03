@@ -24,9 +24,6 @@
                             <li class="breadcrumb-item active">Dashboard</li>
                         </ol>
                     </div>
-                    <div class="col-md-6 col-4 align-self-center">
-                        <a href="https://wrappixel.com/templates/monsteradmin/" class="btn pull-right hidden-sm-down btn-success"> Upgrade to Pro</a>
-                    </div>
                 </div>
                 <!-- ============================================================== -->
                 <!-- End Bread crumb and right sidebar toggle -->
@@ -38,7 +35,32 @@
                     <div class="col-12">
                         <div class="card">
                             <div class="card-block">
-                                This is some text within a card block.
+                                <h4 class="card-title">Dossiers Patients</h4>
+                                <div class="table-responsive m-t-40">
+                                    <table class="table stylish-table">
+                                        <thead>
+                                            <tr>
+                                                <th colspan="2">Prénom</th>
+                                                <th>Nom</th>
+                                                <th>Date de Naissance</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            {% for p in patients %} 
+                                                <tr>
+                                                    <td style="width:50px;"><span class="round">
+                                                        <a href="{% url "dashboard:showPatient" pk=p.id %}">
+                                                        {{ p.id }}</a>
+                                                    </span></td>
+                                                    <td><h6> <a href="{% url "dashboard:showPatient" pk=p.id %}"</a>
+                                                    </h6></td>
+                                                    <td>{{ p.nom }}</td>
+                                                    <td>{{ p.dateNaiss }}</td>
+                                                </tr>
+                                            {% endfor %} 
+                                        </tbody>
+                                    </table>
+                                </div>
                             </div>
                         </div>
                     </div>
