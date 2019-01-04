@@ -106,3 +106,4 @@ def password_change_view(request):
             errorMessage = "Your current password is not correct. Please, provide a correct one"
             return render(request, 'registration/password_change.html', {"errorMessage": errorMessage})
     return render(request, 'registration/password_change.html')
+

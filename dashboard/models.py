@@ -58,7 +58,7 @@ class Maladie(models.Model):
 	def save(self):
 		from search.models import MedicalData
 		print(self.nomMaladie)
-		maladie = MedicalData(nomMaladie = self.nomMaladie)
+		maladie = MedicalData(nomMaladie = self.nomMaladie, description = self.description)
 		maladie.save()
 		super().save()
 

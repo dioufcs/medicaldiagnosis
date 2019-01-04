@@ -20,6 +20,9 @@ from django.urls import path, include
 from django.conf import settings
 from django.views.generic.base import TemplateView
 from django.conf.urls.static import static
+from search.views import synthetiseur, instantSearch
+
+
 
 urlpatterns = [
 
@@ -32,5 +35,8 @@ urlpatterns = [
     path('login/', views.login_view, name='login'),
     path('logout/', views.logout_view, name="logout"),
     path('reset/', views.reset_password_view, name="reset"),
-    path('password_change/', views.password_change_view, name="password_change")
+    path('password_change/', views.password_change_view, name="password_change"),
+    path('ajax/synthetiseur/', synthetiseur, name='synthetiseur'),
+    path('ajax/instantsearch/', instantSearch, name='instantSearch'),
+    
 ] 

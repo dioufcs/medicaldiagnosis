@@ -1,6 +1,6 @@
 from django.urls import path, include
 
-from . import views
+from dashboard import views
 
 app_name = 'dashboard'
 
@@ -12,5 +12,9 @@ urlpatterns = [
     path('catalogue/', views.catalogue, name='catalogue'),
     path('profil/', views.profil, name='profil'),
     path('nouveau_patient', views.creer_patient, name='nouveau_patient'),
-    path('edit_patient/<pk>', views.edit_patient, name='edit_patient')
+    path('edit_patient/<pk>', views.edit_patient, name='edit_patient'),
+    path('diagnostic/', views.diagnostic, name='diagnostic'),
+    path('listeMaladies/', views.listeMaladies, name='listeMaladies'),
+    path('pagefinale/', views.pagefinale, name='pagefinale'),
+
 ]

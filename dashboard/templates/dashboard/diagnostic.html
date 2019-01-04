@@ -1,0 +1,67 @@
+{% extends "dashboard/base.html" %}
+
+{% load static %}
+
+{% block title %}{% endblock %}
+
+{% block content %}
+
+<div class="page-wrapper">
+<div class="container-fluid">
+
+
+
+
+	
+<!--<h1>Recorder.js simple WAV export example</h1>
+
+  <p>Make sure you are using a recent version of Google Chrome.</p>
+  <p>Also before you enable microphone input either plug in headphones or turn the volume down if you want to avoid ear splitting feedback!</p>
+
+  <button id="start">record</button>
+  <button disabled id="stop">stop</button>
+  
+  <h2>Recordings</h2>
+  <ul id="recordingslist"></ul>
+  
+  <h2>Log</h2>
+  <pre id="log"></pre>-->
+
+  <div class="card text-center" style="height:470px; margin-bottom:0px">
+	  <div class="card-header">
+	    <ul class="nav nav-tabs card-header-tabs">
+	      <li class="nav-item">
+	        <a class="nav-link active" href="#" id="1">Active</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="#" id="2">Link</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link disabled" href="#" id="3">Disabled</a>
+	      </li>
+	    </ul>
+	  </div>
+
+	  <div class="card-body">
+	    	<h5 class="card-title">Enregistrement discours patient</h5>
+	    	<h2 class="card-text"><div id="basicUsage">00:00:00</div></h2>l
+	  	 <button type="button" class="btn btn-primary" id="start">Enregistrer</button>
+	  	 <button type="button" class="btn btn-primary" id="pause" disabled>Pause</button>
+	  	 <button type="button" class="btn btn-primary" id="stop" disabled>Terminer</button>
+  <!--<pre id="log"></pre>-->
+	  </div>
+
+ </div>
+
+
+</div>
+</div>
+
+<script src="{% static "dashboard/assets/plugins/jquery/jquery.min.js" %}"></script>
+<script src="{% static "dashboard/assets/plugins/easytimer.js" %}"></script>
+<script src="{% static "dashboard/js/diagnostic.js" %}"></script>
+
+  <script src="{% static "dashboard/js/recorder.js" %}"></script>
+
+
+{% endblock %}

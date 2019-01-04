@@ -4,6 +4,7 @@ from django.db.models.signals import m2m_changed
 
 class MedicalData(models.Model):
 	nomMaladie = models.CharField(max_length=254, unique=True)
+	description = models.TextField(verbose_name="Description", blank=True)
 	listeSymptomes = models.TextField(blank=True)
 
 

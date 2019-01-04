@@ -1,0 +1,64 @@
+{% extends "dashboard/base.html" %}
+
+{% load static %}
+
+{% block title %}{% endblock %}
+
+{% block content %}
+
+<div class="page-wrapper">
+<div class="container-fluid">
+
+
+
+
+	
+<!--<h1>Recorder.js simple WAV export example</h1>
+
+  <p>Make sure you are using a recent version of Google Chrome.</p>
+  <p>Also before you enable microphone input either plug in headphones or turn the volume down if you want to avoid ear splitting feedback!</p>
+
+  <button id="start">record</button>
+  <button disabled id="stop">stop</button>
+  
+  <h2>Recordings</h2>
+  <ul id="recordingslist"></ul>
+  
+  <h2>Log</h2>
+  <pre id="log"></pre>-->
+
+  <div class="card text-center" style="height:470px; margin-bottom:0px">
+	  <div class="card-header">
+	    <ul class="nav nav-tabs card-header-tabs">
+	      <li class="nav-item">
+	        <a class="nav-link" href="#" id="1">Active</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="#" id="2">Link</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link active" href="#" id="3">Disabled</a>
+	      </li>
+	    </ul>
+	  </div>
+
+	  <div class="card-body">
+
+	  	{% for i,j in s.items %}
+		<span class="text-success">{{j}}</span>
+		
+	{% endfor %}
+
+
+	    	
+	    	
+  <!--<pre id="log"></pre>-->
+	  </div>
+
+ </div>
+
+
+</div>
+</div>
+
+{% endblock %}
