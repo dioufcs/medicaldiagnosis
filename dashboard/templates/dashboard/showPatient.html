@@ -1,0 +1,110 @@
+{% extends "dashboard/base.html" %}
+
+{% load static %}
+
+{% block title %}{% endblock %}
+
+{% block content %}
+
+<!-- Page wrapper  -->
+        <!-- ============================================================== -->
+        <div class="page-wrapper">
+            <!-- ============================================================== -->
+            <!-- Container fluid  -->
+            <!-- ============================================================== -->
+            <div class="container-fluid">
+                <!-- ============================================================== -->
+                <!-- Bread crumb and right sidebar toggle -->
+                <!-- ============================================================== -->
+                <div class="row page-titles">
+                    <div class="col-md-6 col-8 align-self-center">
+                        <h3 class="text-themecolor m-b-0 m-t-0">Patient</h3>
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="javascript:void(0)">Dossiers</a></li>
+                            <li class="breadcrumb-item active">Information(s) Patient</li>
+                        </ol>
+                    </div>
+
+                </div>
+                <!-- ============================================================== -->
+                <!-- End Bread crumb and right sidebar toggle -->
+                <!-- ============================================================== -->
+                <!-- ============================================================== -->
+                <!-- Start Page Content -->
+                <!-- ============================================================== -->
+                <!-- Row -->
+                <div class="row">
+                    <!-- Column -->
+                    <div class="col-lg-4 col-xlg-3 col-md-5">
+                        <div class="card">
+                            <div class="card-block">
+                                <center class="m-t-30"> 
+                                    <h2 class="card-title m-t-10">Fiche du patient</h2>
+                                </center>
+
+                                   <h5 class="card-subtitle"><b>Prénom:</b> {{ p.prenom}}</h5>
+                                   <h5 class="card-subtitle"><b>Nom: </b>{{ p.nom }}</h5>
+                                    <h5 class="card-subtitle"><b>Date de naissance:</b> {{ p.dateNaiss }}</h5>
+                                    <h5 class="card-subtitle"><b>Adresse:</b> {{ p.adresse }}</h5>
+                                    <h5 class="card-subtitle"><b>Profession:</b> {{ p.profession }}</h5>
+                                    <h5 class="card-subtitle"><b>Situation Matrimoniale:</b> 
+                                        {{ p.situationMatr }}</h5>
+                                    <h5 class="card-subtitle"><b>N° Téléphone:</b> {{ p.tel }} </h5>
+                                    <h5 class="card-subtitle"><b>N° Assurance:</b> {{ p.assurance }}</h5>
+                                    <h5 class="card-subtitle"><b>N° Sécurité sociale:</b> 
+                                        {{ p.securiteSociale }}</h5>
+                                    <div class="modal-footer">
+                                        <button class="btn btn-success" type="button"> 
+                                            <a href="{% url "dashboard:editPatient" pk=p.id %}"> Modifier </a> 
+                                        </button>
+                                    </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Column -->
+                    <!-- Column -->
+                    <div class="col-lg-8 col-xlg-9 col-md-7">
+                        <div class="card">
+                            <div class="card-block">
+                                <center class="m-t-30"> 
+                                    <h2 class="card-title m-t-10">Antécédants</h2>
+                                </center>
+                                   <h5 class="card-subtitle"><b>Nature:</b> </h5>
+                                   <h5 class="card-subtitle"><b>Description: </b> </h5>
+                                   <div class="modal-footer">
+                                        <button class="btn btn-primary" type="button"> Ajouter</button>
+                                        <button class="btn btn-inverse" type="button" data-dismiss="modal"> 
+                                            <a >Editer</a> </button>
+                                    </div>
+                            </div>
+                            
+                            <div class="card">
+                            <div class="card-block">
+                                <center class="m-t-30"> 
+                                    <h2 class="card-title m-t-10">Historique des Consultation</h2>
+                                </center>
+                                   <h5 class="card-subtitle"><b>Consultation du:</b> <a href="">None</a> </h5>
+                                   <div class="modal-footer">
+                                        <button class="btn btn-success" type="button"> 
+                                            <a href=""> Consulter </a></button>
+                                    
+                                    </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- Column -->
+                </div>
+                <!-- Row -->
+                <!-- ============================================================== -->
+                <!-- End PAge Content -->
+                <!-- ============================================================== -->
+            </div>
+            <!-- ============================================================== -->
+            <!-- End Container fluid  -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- footer -->
+
+{% endblock %}

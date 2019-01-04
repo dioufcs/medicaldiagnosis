@@ -19,7 +19,7 @@ class Medecin (Personne):
 
 class Patient (Personne):
 	profession = models.CharField(max_length=20, verbose_name='Profession')
-	situationMatr = models.CharField(max_length=10, verbose_name="Situation Matrimoniale")
+	situationMatr = models.CharField(max_length=50, verbose_name="Situation Matrimoniale")
 	assurance = models.CharField(max_length=10, verbose_name="Assurance")
 	securiteSociale = models.CharField(max_length=13, verbose_name="N° Sécurité sociale")
 
