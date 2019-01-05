@@ -42,7 +42,8 @@
                                     <table class="table stylish-table">
                                         <thead>
                                             <tr>
-                                                <th colspan="2">Prénom</th>
+                                                <th>Identifiant</th>
+                                                <th>Prénom</th>
                                                 <th>Nom</th>
                                                 <th>Date de Naissance</th>
                                             </tr>
@@ -54,7 +55,8 @@
                                                         <a href="{% url "dashboard:showPatient" pk=p.id %}">
                                                         {{ p.id }}</a>
                                                     </span></td>
-                                                    <td><h6> <a href="{% url "dashboard:showPatient" pk=p.id %}"</a>
+                                                    <td>
+                                                        <h6> <a href="{% url "dashboard:showPatient" pk=p.id %}"> {{ p.prenom }}</a>
                                                     </h6></td>
                                                     <td>{{ p.nom }}</td>
                                                     <td>{{ p.dateNaiss }}</td>

@@ -6,3 +6,13 @@ class PatientForm(forms.ModelForm):
 	class Meta:
 	    model = Patient
 	    fields = ('__all__')
+
+class AntecedantForm(forms.ModelForm):
+	class Meta:
+		model = Antecedant
+		fields = ('__all__')
+
+class ConsultationForm(forms.ModelForm):
+	class Meta:
+		model = Consultation
+		fields = ('__all__')

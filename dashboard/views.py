@@ -3,6 +3,8 @@ from .models import Patient
 from django.views.decorators.csrf import csrf_protect, csrf_exempt
 import search
 from .forms  import PatientForm
+from .models import Patient, Antecedant
+from .forms  import PatientForm, AntecedantForm
 from django.urls import reverse
 from django.contrib.auth.decorators import login_required
 
@@ -40,11 +42,10 @@ def profil(request):
 	return render(request, "dashboard/profil.html")
 
 def diagnostic(request):
-
 	return render(request, "dashboard/diagnostic.html")
 
 
-#vue pour ajouter un patient dans le système
+#vues pour ajouter un patient dans le système et le modifier par la suite
 @login_required
 def creer_patient(request):
 	if request.method == "POST":
@@ -89,3 +90,15 @@ def pagefinale(request):
 #		print(hit['_score'], hit['_source']['nomMaladie'])
 	print(s)
 	return render(request, "dashboard/pagefinale.html", {'s': s})
+
+#vues pour ajouter, éditer les antécédents d'un patient
+@login_required
+def  addAntecedant(request, pk):
+	if request.method == "POST":
+		form = AntecedantForm(request.POST or None)
+		if form.is_valid():
+			post = form.save()
+			return redirect('http://localhost:8000/dashboard/showPatient/{}'.format(post.pk), pk=post.pk)
+	else:
+		form = AntecedantForm()
+	return render(request, 'dashboard/addAntecedant.html', {'form': form})

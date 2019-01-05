@@ -26,20 +26,21 @@ class Patient (Personne):
 class Consultation (models.Model):
 	date = models.DateField(verbose_name='Date de consultation')
 	poids = models.FloatField(verbose_name='Poids')
-	temperature = models.FloatField(verbose_name='temperature')
+	temperature = models.FloatField(verbose_name='Température')
 	tension = models.FloatField(verbose_name='Tension')
 	motifs = models.CharField(max_length=500, verbose_name='Motifs')
 	examenClinique = models.CharField(max_length=500, verbose_name='Examen Clinique')
 	diagnostic = models.CharField(max_length=100, verbose_name='Diagnostic')
 
-	models.ForeignKey(Medecin, on_delete=models.DO_NOTHING)
-	models.ForeignKey(Patient, on_delete=models.DO_NOTHING)
+	medecin = models.ForeignKey(Medecin, on_delete=models.DO_NOTHING, null = True, verbose_name='Médecin')
+	patient = models.ForeignKey(Patient, on_delete=models.DO_NOTHING, null = True, verbose_name='Patient')
 
 class Antecedant (models.Model):
 	nature = models.CharField(max_length=15, verbose_name="Nature de l'antécédant")
 	description = models.CharField(max_length=30, verbose_name="Description de l'année")
 	
-	models.ForeignKey(Patient, on_delete=models.CASCADE)
+	patient = models.ForeignKey(Patient, on_delete=models.CASCADE, null=True, verbose_name='Patient')
+
 
 class Symptome (models.Model):
 	nomSymptome = models.CharField(max_length=254, unique=True)
