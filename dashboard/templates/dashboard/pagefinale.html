@@ -6,6 +6,9 @@
 
 {% block content %}
 
+<link href="{% static "dashboard/css/jquery.lineProgressbar.css" %}" id="theme" rel="stylesheet">
+
+
 <div class="page-wrapper">
 <div class="container-fluid">
 
@@ -44,12 +47,15 @@
 
 	  <div class="card-body">
 
-	  	{% for i,j in s.items %}
+	  	<!--{% for i,j in s.items %}
 		<span class="text-success">{{j}}</span>
+
 		
-	{% endfor %}
 
+		
+	{% endfor %}-->
 
+		<h4 id="progressbar1"></h4>
 	    	
 	    	
   <!--<pre id="log"></pre>-->
@@ -60,5 +66,15 @@
 
 </div>
 </div>
+
+<script src="{% static "dashboard/assets/plugins/jquery/jquery.min.js" %}"></script>
+<script src="{% static "dashboard/js/jquery.lineProgressbar.js" %}"></script>
+
+<script type="text/javascript">
+$('#progressbar1').LineProgressbar({
+  percentage: 90 // 90%
+});
+
+</script>
 
 {% endblock %}

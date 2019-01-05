@@ -12,7 +12,7 @@
 	{% csrf_token %}
 	{% for nomMaladie in listeMaladies %}
 		<label class="container">{{nomMaladie}}
-		  <input type="checkbox" name="checks" value="{{nomMaladie}}" checked="checked">
+		  <input type="checkbox" name="checks" value="{{nomMaladie}}" id="{{nomMaladie}}" checked="checked">
 		  <span class="checkmark"></span>
 		</label>
 	{% endfor %}
@@ -25,7 +25,7 @@
 
 			<div class="input-group">
   				<span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></span>
-  				<input type="text" class="form-control" placeholder="Search" aria-describedby="basic-addon1" id="search" onfocus="setFocus(1)" onblur="setFocus(0)">
+  				<input type="text" class="form-control" placeholder="Recherche" aria-describedby="basic-addon1" id="search">
 			</div>
 			<select name="resuls" size="10" id="results" style="width: 100% !important; min-width: 100%; max-width: 100%;">
 				
@@ -61,6 +61,25 @@ $("#search").on('input', function () {
       });
 
     });
+	
+	$(document).ready(function(){
+		var tab = [];
+	$("body").on('dblclick', 'option', function() {
+  		//alert( this.value );
+  		var element = document.getElementById(this.value);
+  		
+  		if($(element).length == 0 && !tab.includes(this.value)){
+  			$( '<label class="container">'+this.value+
+	  			'<input type="checkbox" name="checks" value="'+this.value+
+	  			'" checked="checked"><span class="checkmark"></span></label>' ).insertBefore( "button" );
+  			tab.push(this.value);
+  			console.log(tab);
+  		}
+
+  		
+
+});
+	});
 
 </script>
 
