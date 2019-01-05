@@ -1,13 +1,10 @@
 from django.shortcuts import render, redirect, get_object_or_404
 from .models import Patient
-<<<<<<< HEAD
 from django.views.decorators.csrf import csrf_protect, csrf_exempt
 import search
-=======
 from .forms  import PatientForm
 from django.urls import reverse
 from django.contrib.auth.decorators import login_required
->>>>>>> 593eaf2eef9cd78c7d5dae2608e005e51c67fcd2
 
 # Create your views here.
 @login_required
