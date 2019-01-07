@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django_elasticsearch_dsl',
-    'widget_tweaks'
+    'widget_tweaks',
+    'crispy_forms'
 ]
 
 MIDDLEWARE = [

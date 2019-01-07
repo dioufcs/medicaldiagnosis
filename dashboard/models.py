@@ -5,7 +5,7 @@ from django.contrib.auth.models import User
 class Personne (models.Model):
 	nom = models.CharField(max_length=30, verbose_name='Nom')
 	prenom = models.CharField(max_length=30, verbose_name='Prénom')
-	tel = models.IntegerField(verbose_name='Téléphone')
+	tel = models.CharField(max_length=30 ,verbose_name='Téléphone')
 	adresse = models.CharField(max_length=50, verbose_name='Adresse')
 	dateNaiss = models.DateField(verbose_name='Date de naissance')
 
@@ -23,6 +23,9 @@ class Patient (Personne):
 	assurance = models.CharField(max_length=10, verbose_name="Assurance")
 	securiteSociale = models.CharField(max_length=13, verbose_name="N° Sécurité sociale")
 
+	def __str__(self):
+		return "%s - %s - %s" % (self.prenom, self.nom, self.dateNaiss)
+
 class Consultation (models.Model):
 	date = models.DateField(verbose_name='Date de consultation')
 	poids = models.FloatField(verbose_name='Poids')
@@ -36,8 +39,8 @@ class Consultation (models.Model):
 	patient = models.ForeignKey(Patient, on_delete=models.DO_NOTHING, null = True, verbose_name='Patient')
 
 class Antecedant (models.Model):
-	nature = models.CharField(max_length=15, verbose_name="Nature de l'antécédant")
-	description = models.CharField(max_length=30, verbose_name="Description de l'année")
+	nature = models.CharField(max_length=15, verbose_name="Nature de l'antécédent")
+	description = models.CharField(max_length=30, verbose_name="Description de l'antécédent")
 	
 	patient = models.ForeignKey(Patient, on_delete=models.CASCADE, null=True, verbose_name='Patient')
 

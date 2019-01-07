@@ -8,6 +8,7 @@
 
 {% block content %}
 <!-- Page wrapper  -->
+<link href="{% static "dashboard/js/jquery-ui/jquery-ui.css" %}" rel="stylesheet">
 <!-- ============================================================== -->
 <div class="page-wrapper">
    <!-- ============================================================== -->
@@ -66,7 +67,7 @@
         {% render_field field class="form-control is-valid" %}
       {% endif %}
     {% else %}
-      {% render_field field class="form-control" %}
+      {% render_field field class+="form-control" %}
     {% endif %}
 
     {% if field.help_text %}
@@ -90,6 +91,9 @@
    <!-- ============================================================== -->
    <!-- ============================================================== -->
 </div>
+
+ 
+
 <!-- ============================================================== -->
 <!-- End Page wrapper  -->
 <!-- ============================================================== -->

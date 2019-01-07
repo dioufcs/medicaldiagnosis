@@ -2,7 +2,7 @@
 
 {% load static %}
 
-{% block title %}{% endblock %}
+{% block title %}Infos Patients{% endblock %}
 
 {% block content %}
 
@@ -70,19 +70,21 @@
                                 <center class="m-t-30"> 
                                     <h2 class="card-title m-t-10">Antécédants</h2>
                                 </center>
-                                   <h5 class="card-subtitle"><b>Nature:</b> </h5>
-                                   <h5 class="card-subtitle"><b>Description: </b> </h5>
+                                {% for a in antecedant %}
+                                   <h5 class="card-subtitle"><b>Nature: {{ a.nature }}</b> </h5>
+                                   <h5 class="card-subtitle"><b>Description: {{ a.description }}</b> </h5>
+                                   <br />
+                                {% endfor %}
                                    <div class="modal-footer">
-                                        <button class="btn btn-primary" type="button"> Ajouter</button>
-                                        <button class="btn btn-inverse" type="button" data-dismiss="modal"> 
-                                            <a >Editer</a> </button>
+                                        <button class="btn btn-inverse" type="button"> <a href="{% url "dashboard:nouvelAntecedant" pk=p.id %}"> Ajouter </a> </button>
+                                
                                     </div>
                             </div>
                             
                             <div class="card">
                             <div class="card-block">
                                 <center class="m-t-30"> 
-                                    <h2 class="card-title m-t-10">Historique des Consultation</h2>
+                                    <h2 class="card-title m-t-10">Historique des Consultations</h2>
                                 </center>
                                    <h5 class="card-subtitle"><b>Consultation du:</b> <a href="">None</a> </h5>
                                    <div class="modal-footer">

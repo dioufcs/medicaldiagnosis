@@ -29,7 +29,8 @@ def dossiers(request):
 def showPatient(request, pk):
 	pk= int(pk) # make sure we have an integer.
 	patient = Patient.objects.get(id=pk)
-	return render(request, "dashboard/showPatient.html", {'p': patient})
+	antecedant = Antecedant.objects.filter(patient=patient)
+	return render(request, "dashboard/showPatient.html", {'p': patient, 'antecedant': antecedant})
 
 @login_required
 def catalogue(request):
@@ -64,7 +65,7 @@ def editPatient(request, pk):
 		form = PatientForm(request.POST, instance = patient)
 		if form.is_valid():
 			post = form.save()
-			return redirect('http://localhost:8000/dashboard/showPatient/{}'.format(post.pk), pk=post.pk)
+			return redirect('http://localhost:8000/dashboard/showPatient/{}'.format(post.pk))
 	else:
 		form = PatientForm(instance=patient)
 	return render(request, 'dashboard/creer_patient.html', {'form': form})
@@ -94,11 +95,15 @@ def pagefinale(request):
 #vues pour ajouter, éditer les antécédents d'un patient
 @login_required
 def  addAntecedant(request, pk):
+	patient = Patient.objects.get(id=pk)
 	if request.method == "POST":
 		form = AntecedantForm(request.POST or None)
 		if form.is_valid():
 			post = form.save()
-			return redirect('http://localhost:8000/dashboard/showPatient/{}'.format(post.pk), pk=post.pk)
+			return redirect('http://localhost:8000/dashboard/showPatient/{}'.format(patient.pk))
 	else:
 		form = AntecedantForm()
+		form.fields['patient'].choices=((pk, patient,), )
 	return render(request, 'dashboard/addAntecedant.html', {'form': form})
+
+
