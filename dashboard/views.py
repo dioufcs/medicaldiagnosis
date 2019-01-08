@@ -7,6 +7,7 @@ from .models import Patient, Antecedant
 from .forms  import PatientForm, AntecedantForm
 from django.urls import reverse
 from django.contrib.auth.decorators import login_required
+from search.views import MedicalData
 
 # Create your views here.
 @login_required
@@ -82,15 +83,46 @@ def listeMaladies(request):
 
 
 def pagefinale(request):
+	import math
+
 	some_var = request.POST.getlist('checks')
 	print(some_var)
 	diagnostic = search.views.diagnostic(some_var)
 	s = dict()
+	d = dict()
 	for hit in diagnostic:
 		s[hit['_source']['nomMaladie']] = hit['_score']
 #		print(hit['_score'], hit['_source']['nomMaladie'])
+	maxValue = s[(next(iter(s)))]
+	print(maxValue)
+	maladie = MedicalData.objects.get(nomMaladie = next(iter(s)))
+	print(maladie.nomMaladie, maladie.listeSymptomes)
+
+	cpt = 0
+	for i in some_var:
+		if i in maladie.listeSymptomes:
+			cpt+=1
+
+
+	coeff = ((cpt/(len(maladie.listeSymptomes.split(','))-1))*100)/maxValue
+
+	for key, value in s.items():
+		s[key] = math.ceil(value * coeff)
+
+	for key, value in s.items():
+		d[key.capitalize()] = value
+
+
 	print(s)
-	return render(request, "dashboard/pagefinale.html", {'s': s})
+
+	return render(request, "dashboard/pagefinale.html", {'d': d})
+
+def detailMaladie(request):
+	from django.http import JsonResponse
+
+	maladie = MedicalData.objects.get(nomMaladie = request.GET.get('nomMaladie'))
+	details = {'nomMaladie': maladie.nomMaladie.capitalize(), 'description': maladie.description, 'listeSymptomes': maladie.listeSymptomes}
+	return JsonResponse(details)
 
 #vues pour ajouter, éditer les antécédents d'un patient
 @login_required

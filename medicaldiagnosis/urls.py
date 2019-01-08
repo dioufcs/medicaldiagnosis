@@ -21,7 +21,7 @@ from django.conf import settings
 from django.views.generic.base import TemplateView
 from django.conf.urls.static import static
 from search.views import synthetiseur, instantSearch
-
+from dashboard.views import detailMaladie
 
 
 urlpatterns = [
@@ -38,5 +38,6 @@ urlpatterns = [
     path('password_change/', views.password_change_view, name="password_change"),
     path('ajax/synthetiseur/', synthetiseur, name='synthetiseur'),
     path('ajax/instantsearch/', instantSearch, name='instantSearch'),
+    path('ajax/detailMaladie/', detailMaladie, name='detailMaladie'),
     
 ] 
