@@ -46,17 +46,33 @@
 	  </div>
 
 	  <div class="card-body">
+		<div class="container-fluid">
+			<div class="row">
+			<div class="col-md-4">
+		  	{% for i,j in d.items %}
 
-	  	<!--{% for i,j in s.items %}
-		<span class="text-success">{{j}}</span>
+				<span class="suggestion">{{i}}</span>
+				<h4 class="progressbar1">{{j}}</h4>
+
+			
+
+			
+			{% endfor %}
 
 		
-
-		
-	{% endfor %}-->
-
-		<h4 id="progressbar1"></h4>
-	    	
+		</div>
+		<div class="col-md-8">
+			<div style="height:100%; border:2px black solid; border-radius:20px; padding:3px;">
+				<p style="text-align:center; text-decoration: underline;">Cliquez sur une maladie pour afficher les détails</p>
+				<strong style="text-decoration: underline;">Nom maladie</strong><span class="nomMaladie"></span><hr>
+				<strong style="text-decoration: underline;">Description</strong><span class="description"></span><hr>
+				<strong style="text-decoration: underline;">Liste symptomes</strong><span class="titleListeSymptome"></span>
+				<ul class='listeSymptomes'>
+				</ul>
+			</div>
+		</div>
+		</div>   
+		</div> 	
 	    	
   <!--<pre id="log"></pre>-->
 	  </div>
@@ -71,9 +87,43 @@
 <script src="{% static "dashboard/js/jquery.lineProgressbar.js" %}"></script>
 
 <script type="text/javascript">
-$('#progressbar1').LineProgressbar({
-  percentage: 90 // 90%
+/*var thisForm = $('.progressbar1')
+$('.progressbar1').LineProgressbar({
+  percentage: thisForm.html() // 90%
+});*/
+
+$('.progressbar1').each(function(i, obj) {
+    $(this).LineProgressbar({
+  		percentage: $(this).html(),
+  		radius: '20px',
+	});
 });
+
+$(".card").toggleClass('text-center');
+
+$('.suggestion').css( 'cursor', 'pointer' );
+
+$(".suggestion").click(function () {
+  	$.ajax({
+        url: '/ajax/detailMaladie/',
+        data: {'nomMaladie': $(this).html()},
+        dataType: 'json',
+        success: function (details) {
+        	 $(".listeSymptomes").empty();
+        	 $(".titleListeSymptome").html(' : ');
+            //alert(details['listeSymptomes']);
+            $(".nomMaladie").html(' : '+details['nomMaladie']);
+            $(".description").html(' : '+details['description']);
+            //$(".listeSymptomes").html(details['listeSymptomes']);
+            tab = details['listeSymptomes'].split(',')
+            for(var i= 0; i < tab.length - 1; i++)
+				{
+				     $(".listeSymptomes").append('<li>'+tab[i]+'</li>')
+				}
+          }
+        }
+		);
+  });
 
 </script>
 

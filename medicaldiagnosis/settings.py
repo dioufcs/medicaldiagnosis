@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django_elasticsearch_dsl',
     'widget_tweaks',
-    'crispy_forms'
 ]
 
 MIDDLEWARE = [
