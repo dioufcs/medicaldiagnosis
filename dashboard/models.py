@@ -1,13 +1,18 @@
 from django.db import models
 from django.contrib.auth.models import User
 
+SITUATION_CHOICES = (
+    ('MARIE', 'Marié'),
+    ('CELIBATAIRE', 'Célibataire'),
+)
+
 #verbose_name permet de gérer l'affichage du champ (le label)
 class Personne (models.Model):
 	nom = models.CharField(max_length=30, verbose_name='Nom')
 	prenom = models.CharField(max_length=30, verbose_name='Prénom')
 	tel = models.CharField(max_length=30 ,verbose_name='Téléphone')
 	adresse = models.CharField(max_length=50, verbose_name='Adresse')
-	dateNaiss = models.DateField(verbose_name='Date de naissance')
+	dateNaiss = models.CharField(max_length=15 ,verbose_name='Date de naissance')
 
 	class Meta:
 		abstract = True
@@ -19,7 +24,7 @@ class Medecin (Personne):
 
 class Patient (Personne):
 	profession = models.CharField(max_length=20, verbose_name='Profession')
-	situationMatr = models.CharField(max_length=50, verbose_name="Situation Matrimoniale")
+	situationMatr = models.CharField(max_length=50, verbose_name="Situation Matrimoniale", choices=SITUATION_CHOICES)
 	assurance = models.CharField(max_length=10, verbose_name="Assurance")
 	securiteSociale = models.CharField(max_length=13, verbose_name="N° Sécurité sociale")
 

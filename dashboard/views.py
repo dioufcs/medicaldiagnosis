@@ -2,9 +2,8 @@ from django.shortcuts import render, redirect, get_object_or_404
 from .models import Patient
 from django.views.decorators.csrf import csrf_protect, csrf_exempt
 import search
-from .forms  import PatientForm
-from .models import Patient, Antecedant
-from .forms  import PatientForm, AntecedantForm
+from .models import Patient, Antecedant, Medecin
+from .forms  import PatientForm, AntecedantForm, MedecinForm
 from django.urls import reverse
 from django.contrib.auth.decorators import login_required
 
@@ -21,7 +20,7 @@ def rendezvous(request):
 
 @login_required
 def dossiers(request):
-	patients = Patient.objects.all()
+	patients = Patient.objects.all().order_by('nom', 'prenom')
 	return render(request ,"dashboard/dossiers.html", {'patients' : patients})
 
 #fonction pour lire un patient donné
@@ -39,8 +38,17 @@ def catalogue(request):
 
 @login_required
 def profil(request):
-
-	return render(request, "dashboard/profil.html")
+	user=request.user
+	medecin = get_object_or_404(Medecin, pk=user.id)
+	print(medecin.nom)
+	if request.method == "POST":
+		form = MedecinForm(request.POST, instance=medecin)
+		if form.is_valid():
+			post = form.save()
+			return redirect('http://localhost:8000/dashboard/profil')
+	else:
+		form = MedecinForm(instance=medecin)
+	return render(request, "dashboard/profil.html", {'form': form, 'm': medecin})
 
 def diagnostic(request):
 	return render(request, "dashboard/diagnostic.html")
