@@ -52,8 +52,14 @@ def profil(request):
 		form = MedecinForm(instance=medecin)
 	return render(request, "dashboard/profil.html", {'form': form, 'm': medecin})
 
-def diagnostic(request):
-	return render(request, "dashboard/diagnostic.html")
+
+
+@login_required
+def diagnostic(request, pk):
+	pk= int(pk) # make sure we have an integer.
+	patient = Patient.objects.get(id=pk)
+	antecedant = Antecedant.objects.filter(patient=patient)
+	return render(request, "dashboard/diagnostic.html", {'p': patient, 'antecedant': antecedant})
 
 
 #vues pour ajouter un patient dans le système et le modifier par la suite
@@ -82,16 +88,20 @@ def editPatient(request, pk):
 
 
 @csrf_exempt
-def listeMaladies(request):
+def listeMaladies(request, pk):
 #	print("here")
 #	print("eeee"+request.POST['texte'])
 
+#	pk= int(pk) # make sure we have an integer.
+	patient = Patient.objects.get(id=pk)
 
-	return render(request, "dashboard/listeMaladies.html", {'listeMaladies': request.POST['texte'].split("-")}) 
+	listeMaladies = request.POST['texte'].split("-")
+
+	return render(request, "dashboard/listeMaladies.html", {'p': patient, 'listeMaladies': listeMaladies}) 
 
 
 
-def pagefinale(request):
+def pagefinale(request, pk):
 	import math
 
 	some_var = request.POST.getlist('checks')
@@ -122,7 +132,7 @@ def pagefinale(request):
 		d[key.capitalize()] = value
 
 
-	print(s)
+	print(d)
 
 	return render(request, "dashboard/pagefinale.html", {'d': d})
 

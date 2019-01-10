@@ -33,10 +33,10 @@ class Patient (Personne):
 
 class Consultation (models.Model):
 	date = models.DateField(verbose_name='Date de consultation')
-	poids = models.FloatField(verbose_name='Poids')
-	temperature = models.FloatField(verbose_name='Température')
-	tension = models.FloatField(verbose_name='Tension')
-	motifs = models.CharField(max_length=500, verbose_name='Motifs')
+	poids = models.FloatField(verbose_name='Poids', null = True)
+	temperature = models.FloatField(verbose_name='Température', null = True)
+	tension = models.FloatField(verbose_name='Tension', null = True)
+	motifs = models.CharField(max_length=500, verbose_name='Motifs', null = True)
 	examenClinique = models.CharField(max_length=500, verbose_name='Examen Clinique')
 	diagnostic = models.CharField(max_length=100, verbose_name='Diagnostic')
 

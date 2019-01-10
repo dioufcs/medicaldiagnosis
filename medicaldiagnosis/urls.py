@@ -40,4 +40,4 @@ urlpatterns = [
     path('ajax/instantsearch/', instantSearch, name='instantSearch'),
     path('ajax/detailMaladie/', detailMaladie, name='detailMaladie'),
     
-] 
+]

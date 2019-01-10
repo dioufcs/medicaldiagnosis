@@ -119,7 +119,7 @@
                <h5 class="card-subtitle"><b>Consultation du:</b> <a href="">None</a> </h5>
                <div class="modal-footer">
                   <button class="btn btn-success" type="button"> 
-                  <a href=""> Consulter </a></button>
+                  <a href="{% url "dashboard:diagnostic" pk=p.id %}"> Consulter </a></button>
                </div>
             </div>
          </div>
@@ -138,7 +138,6 @@
 <!-- footer -->
 <script src="{% static "dashboard/assets/plugins/jquery/jquery.min.js" %}"></script>
 <script type="text/javascript">
-
 $("#nouvelAntecedant").click(function () {
    $.ajax({
         url: '/dashboard/nouvelAntecedant',
@@ -148,10 +147,8 @@ $("#nouvelAntecedant").click(function () {
          $('.close').click();
           $("#listeAntecedant").append('<h5 class="card-subtitle"><b>Nature: '+details['nature']+'</b> </h5>'+
                '<h5 class="card-subtitle"><b>Description: '+details['description']+'</b> </h5>');
-
           }
         });
   });
-
 </script>
 {% endblock %}

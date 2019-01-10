@@ -13,9 +13,9 @@ urlpatterns = [
     path('profil/', views.profil, name='profil'),
 
 
-    path('diagnostic/', views.diagnostic, name='diagnostic'),
-    path('listeMaladies/', views.listeMaladies, name='listeMaladies'),
-    path('pagefinale/', views.pagefinale, name='pagefinale'),
+    path('diagnostic/<pk>', views.diagnostic, name='diagnostic'),
+    path('listeMaladies/<pk>', views.listeMaladies, name='listeMaladies'),
+    path('pagefinale/<pk>', views.pagefinale, name='pagefinale'),
 
     path('nouveauPatient/', views.creer_patient, name='nouveauPatient'),
     path('editPatient/<pk>', views.editPatient, name='editPatient'),

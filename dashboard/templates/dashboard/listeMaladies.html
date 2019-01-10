@@ -8,15 +8,15 @@
 	<h3 style="text-decoration: underline;">Symptomes trouvés</h3>
 
 
-<form action="../pagefinale/" method="post">
+<form action="{% url "dashboard:pagefinale" pk=p.id %}"method="post">
 	{% csrf_token %}
 	{% for nomMaladie in listeMaladies %}
-		<label class="container">{{nomMaladie}}
+		<label class="container">{{nomMaladie|capfirst}}
 		  <input type="checkbox" name="checks" value="{{nomMaladie}}" id="{{nomMaladie}}" checked="checked">
 		  <span class="checkmark"></span>
 		</label>
 	{% endfor %}
-	<button class="btn btn-primary" type="submit">Button</button>
+	<button class="btn btn-primary" type="submit">Diagnostiquer</button>
 </form>
 
 </div>
@@ -53,7 +53,7 @@ $("#search").on('input', function () {
           for (var i = 0; i < tab.length; i++) {
   				
   				//$('#results').append('<h4><li><a>'+tab[i]+'</a></li></h4>')
-  				$('#results').append('<option value="'+tab[i]+'">'+tab[i]+'</option>')
+  				$('#results').append('<option value="'+tab[i]+'">'+tab[i].charAt(0).toUpperCase()+tab[i].slice(1)+'</option>')
 				
 			}
         }
@@ -68,7 +68,7 @@ $("#search").on('input', function () {
   		var element = document.getElementById(this.value);
   		
   		if($(element).length == 0 && !tab.includes(this.value)){
-  			$( '<label class="container">'+this.value+
+  			$( '<label class="container">'+this.value.charAt(0).toUpperCase()+this.value.slice(1)+
 	  			'<input type="checkbox" name="checks" value="'+this.value+
 	  			'" checked="checked"><span class="checkmark"></span></label>' ).insertBefore( "button" );
   			tab.push(this.value);

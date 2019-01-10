@@ -27,30 +27,52 @@
   <h2>Log</h2>
   <pre id="log"></pre>-->
 
-  <div class="card text-center" style="height:530px; margin-bottom:0px">
+  <div class="card text-center" style="height: 530px;">
 	  <div class="card-header">
 	    <ul class="nav nav-tabs card-header-tabs">
 	      <li class="nav-item">
-	        <a class="nav-link active" href="#" id="1">Active</a>
+	        <a class="nav-link active" href="#" id="1">Discours patient</a>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link" href="#" id="2">Link</a>
+	        <a class="nav-link disabled" href="#" id="2">Symptomes</a>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link disabled" href="#" id="3">Disabled</a>
+	        <a class="nav-link disabled" href="#" id="3">Diagnostic</a>
 	      </li>
 	    </ul>
 	  </div>
 
 	  <div class="card-body">
-	    	<h5 class="card-title">Enregistrement discours patient</h5>
-	    	<h2 class="card-text"><div id="basicUsage">00:00:00</div></h2>l
-	  	 <button type="button" class="btn btn-primary" id="start">Enregistrer</button>
+<div class="container-fluid">
+	  	<div class="row">
+	  	<div class="col-md-6">
+	  	<div style="height:100%; border:2px black solid; border-radius:20px; padding:3px;">
+				<p style="text-align:center; text-decoration: underline;">Détails sur le patient</p>
+				<h5 class="card-subtitle" style="text-align:left;"><b>Prénom:</b> {{ p.prenom}}</h5>
+               <h5 class="card-subtitle" style="text-align:left;"><b>Nom: </b>{{ p.nom }}</h5>
+                <h5 class="card-subtitle" style="text-align:left;"><b>Date de naissance:</b> {{ p.dateNaiss }}</h5>
+                <hr>
+                 {% for a in antecedant %}
+	               <h5 class="card-subtitle" style="text-align:left;"><b>Nature:</b> {{ a.nature }} </h5>
+	               <h5 class="card-subtitle" style="text-align:left;"><b>Description:</b> {{ a.description }} </h5>
+	               <br />
+	            {% endfor %}
+		</div>
+	  	</div>
+	  	<div class="col-md-6">
+    	<h2 class="card-title" style="text-decoration: underline;">Enregistrement discours patient</h2>
+    	<h2 class="card-text"><div id="basicUsage">00:00:00</div></h2>
+	  	 <button type="button" class="btn btn-primary" id="start" data-js-vars='{{ p.id }}'>Enregistrer</button>
 	  	 <button type="button" class="btn btn-primary" id="pause" disabled>Pause</button>
 	  	 <button type="button" class="btn btn-primary" id="stop" disabled>Terminer</button>
-  <!--<pre id="log"></pre>-->
+	  	 <div class="spinnerCSD">
+		  	 <i class="fa fa-spinner fa-spin fa-5x fa-fw"></i>
+	  	</div>
 	  </div>
-
+	</div>
+</div>
+  <!--<pre id="log"></pre>-->
+</div>
  </div>
 
 
@@ -60,6 +82,7 @@
 <script src="{% static "dashboard/assets/plugins/jquery/jquery.min.js" %}"></script>
 <script src="{% static "dashboard/assets/plugins/easytimer.js" %}"></script>
 <script src="{% static "dashboard/js/diagnostic.js" %}"></script>
+
 
   <script src="{% static "dashboard/js/recorder.js" %}"></script>
 

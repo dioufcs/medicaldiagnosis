@@ -30,17 +30,17 @@
   <h2>Log</h2>
   <pre id="log"></pre>-->
 
-  <div class="card text-center" style="height:470px; margin-bottom:0px">
+  <div class="card text-center" style="height:auto; margin-bottom:0px">
 	  <div class="card-header">
 	    <ul class="nav nav-tabs card-header-tabs">
 	      <li class="nav-item">
-	        <a class="nav-link" href="#" id="1">Active</a>
+	        <a class="nav-link disabled" href="#" id="1">Discours patient</a>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link" href="#" id="2">Link</a>
+	        <a class="nav-link disabled" href="#" id="2">Symptomes</a>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link active" href="#" id="3">Disabled</a>
+	        <a class="nav-link active" href="#" id="3">Diagnostic</a>
 	      </li>
 	    </ul>
 	  </div>
@@ -69,7 +69,50 @@
 				<strong style="text-decoration: underline;">Liste symptomes</strong><span class="titleListeSymptome"></span>
 				<ul class='listeSymptomes'>
 				</ul>
+				<div class="float-right">
+					
+				<button type="button" class="btn btn-info" data-toggle="modal" data-target="#modal-body">
+  					Autre diagnostic
+				</button>
+
+				<div class="modal fade" id="modal-body">
+				 <div class="modal-dialog" role="document">
+			    <div class="modal-content">
+			      <div class="modal-header">
+			        <h5 class="modal-title" id="exampleModalLabel">Nouvelle maladie</h5>
+			        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+			          <span aria-hidden="true">&times;</span>
+			        </button>
+			      </div>
+			      <div class="modal-body">
+
+			        <form>
+					  <div class="form-group">
+					    <label for="modalNomMaladie">Nom maladie</label>
+					    <input type="text" class="form-control" id="modalNomMaladie" placeholder="Nom maladie">
+					  </div>
+					  <div class="form-group">
+					    <label for="modalDescription">Description maladie</label>
+					    <input type="text" class="form-control" id="modalDescription"  placeholder="Description maladie">
+					  </div>
+					  <div class="form-group">
+					    <label for="modalListeSymptomes">Liste symptomes</label>
+					    <input type="text" class="form-control" id="modalListeSymptomes"  placeholder="Liste symptomes">
+					  </div>
+					</form>
+
+			      </div>
+			      <div class="modal-footer">
+			        <button type="button" class="btn btn-secondary" data-dismiss="modal">Annuler</button>
+			        <button type="button" class="btn btn-primary" id="nouvelleMaladie">Enregistrer diagnostic</button>
+			      </div>
+			    </div>
+			  </div>
+				</div>
+				<a class="btn btn-primary disabled" href="#" role="button">Confirmer diagnostic</a>
 			</div>
+			</div>
+
 		</div>
 		</div>   
 		</div> 	
@@ -104,6 +147,7 @@ $(".card").toggleClass('text-center');
 $('.suggestion').css( 'cursor', 'pointer' );
 
 $(".suggestion").click(function () {
+	$("a.btn-primary").removeClass('disabled');
   	$.ajax({
         url: '/ajax/detailMaladie/',
         data: {'nomMaladie': $(this).html()},
@@ -118,12 +162,27 @@ $(".suggestion").click(function () {
             tab = details['listeSymptomes'].split(',')
             for(var i= 0; i < tab.length - 1; i++)
 				{
-				     $(".listeSymptomes").append('<li>'+tab[i]+'</li>')
+				     $(".listeSymptomes").append('<li>'+tab[i]+'</li>');
 				}
+
           }
         }
 		);
   });
+
+$("#nouvelleMaladie").click(function () {
+	 $(".listeSymptomes").empty();
+     $(".titleListeSymptome").html(' : ');
+	$(".nomMaladie").html(' : '+$("#modalNomMaladie").val());
+	$(".description").html(' : '+$("#modalDescription").val());
+
+	tab = $("#modalListeSymptomes").val().split(',')
+    for(var i= 0; i < tab.length - 1; i++)
+		{
+		     $(".listeSymptomes").append('<li>'+tab[i]+'</li>');
+		}
+	$(".close").click();
+});
 
 </script>
 

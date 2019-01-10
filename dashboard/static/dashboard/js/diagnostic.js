@@ -1,6 +1,8 @@
+
+$(document).ready(function(){
+    $('.spinnerCSD').hide();
+});
 var timer = new easytimer.Timer();
-
-
 
 
 	timer.addEventListener('secondsUpdated', function (e) {
@@ -81,18 +83,16 @@ var timer = new easytimer.Timer();
       //li.appendChild(hf);
       //recordingslist.appendChild(li);
       hf.click();
-
-
       $.ajax({
         url: '/ajax/synthetiseur/',
         data: {'url': hf.download},
         dataType: 'json',
         success: function (texte) {
             //alert(texte['texte']);
-            alert(texte['texte']);
-
+            //alert(texte['texte']);
+            var my_vars = $("#start").attr('data-js-vars');
             $(".card").toggleClass('text-center');
-            $(".card-body").load('../listeMaladies/', texte);
+            $(".card-body").load('../listeMaladies/'+my_vars, texte);
           }
         }
 		);
@@ -100,6 +100,8 @@ var timer = new easytimer.Timer();
   }
   window.onload = function init() {
     try {
+
+      
       // webkit shim
       window.AudioContext = AudioContext
       navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia;
@@ -121,6 +123,10 @@ var timer = new easytimer.Timer();
   });
 
   $("#stop").click(function () {
+    $('.spinnerCSD').show();
+    $('#start').hide();
+    $('#stop').hide();
+    $('#pause').hide();
   	stopRecording(this);
   		
   });
