@@ -20,5 +20,5 @@ urlpatterns = [
     path('nouveauPatient/', views.creer_patient, name='nouveauPatient'),
     path('editPatient/<pk>', views.editPatient, name='editPatient'),
     path('showPatient/<pk>', views.showPatient, name='showPatient'),
-    path('nouvelAntecedant/<pk>', views.addAntecedant, name='nouvelAntecedant')
+    path('nouvelAntecedant/', views.addAntecedant, name='nouvelAntecedant')
 ]

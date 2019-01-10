@@ -7,6 +7,7 @@ from .forms  import PatientForm, AntecedantForm, MedecinForm
 from django.urls import reverse
 from django.contrib.auth.decorators import login_required
 from search.views import MedicalData
+from django.http import JsonResponse
 
 # Create your views here.
 @login_required
@@ -126,7 +127,7 @@ def pagefinale(request):
 	return render(request, "dashboard/pagefinale.html", {'d': d})
 
 def detailMaladie(request):
-	from django.http import JsonResponse
+
 
 	maladie = MedicalData.objects.get(nomMaladie = request.GET.get('nomMaladie'))
 	details = {'nomMaladie': maladie.nomMaladie.capitalize(), 'description': maladie.description, 'listeSymptomes': maladie.listeSymptomes}
@@ -134,16 +135,15 @@ def detailMaladie(request):
 
 #vues pour ajouter, éditer les antécédents d'un patient
 @login_required
-def  addAntecedant(request, pk):
-	patient = Patient.objects.get(id=pk)
-	if request.method == "POST":
-		form = AntecedantForm(request.POST or None)
-		if form.is_valid():
-			post = form.save()
-			return redirect('http://localhost:8000/dashboard/showPatient/{}'.format(patient.pk))
-	else:
-		form = AntecedantForm()
-		form.fields['patient'].choices=((pk, patient,), )
-	return render(request, 'dashboard/addAntecedant.html', {'form': form})
+def  addAntecedant(request):
+	patient = Patient.objects.get(id=request.GET.get('idPatient'))
+#	if request.method == "POST":
+	nature = request.GET.get('modalNature')
+	description = request.GET.get('modalDescription')
+	antecedant = Antecedant.objects.create(nature = nature, description = description, patient = patient)
+	details = {'nature': antecedant.nature, 'description': antecedant.description}
+	return JsonResponse(details)
 
-
+#maladie = MedicalData.objects.get(nomMaladie = request.GET.get('nomMaladie'))
+#details = {'nomMaladie': maladie.nomMaladie.capitalize(), 'description': maladie.description, 'listeSymptomes': maladie.listeSymptomes}
+#return JsonResponse(details)

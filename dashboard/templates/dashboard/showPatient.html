@@ -1,112 +1,157 @@
 {% extends "dashboard/base.html" %}
-
 {% load static %}
-
 {% block title %}Infos Patients{% endblock %}
-
 {% block content %}
-
 <!-- Page wrapper  -->
-        <!-- ============================================================== -->
-        <div class="page-wrapper">
-            <!-- ============================================================== -->
-            <!-- Container fluid  -->
-            <!-- ============================================================== -->
-            <div class="container-fluid">
-                <!-- ============================================================== -->
-                <!-- Bread crumb and right sidebar toggle -->
-                <!-- ============================================================== -->
-                <div class="row page-titles">
-                    <div class="col-md-6 col-8 align-self-center">
-                        <h3 class="text-themecolor m-b-0 m-t-0">Patient</h3>
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="javascript:void(0)">Dossiers</a></li>
-                            <li class="breadcrumb-item active">Information(s) Patient</li>
-                        </ol>
-                    </div>
-
-                </div>
-                <!-- ============================================================== -->
-                <!-- End Bread crumb and right sidebar toggle -->
-                <!-- ============================================================== -->
-                <!-- ============================================================== -->
-                <!-- Start Page Content -->
-                <!-- ============================================================== -->
-                <!-- Row -->
-                <div class="row">
-                    <!-- Column -->
-                    <div class="col-lg-4 col-xlg-3 col-md-5">
-                        <div class="card">
-                            <div class="card-block">
-                                <center class="m-t-30"> 
-                                    <h2 class="card-title m-t-10">Fiche du patient</h2>
-                                </center>
-
-                                   <h5 class="card-subtitle"><b>Prénom:</b> {{ p.prenom}}</h5>
-                                   <h5 class="card-subtitle"><b>Nom: </b>{{ p.nom }}</h5>
-                                    <h5 class="card-subtitle"><b>Date de naissance:</b> {{ p.dateNaiss }}</h5>
-                                    <h5 class="card-subtitle"><b>Adresse:</b> {{ p.adresse }}</h5>
-                                    <h5 class="card-subtitle"><b>Profession:</b> {{ p.profession }}</h5>
-                                    <h5 class="card-subtitle"><b>Situation Matrimoniale:</b> 
-                                        {{ p.situationMatr }}</h5>
-                                    <h5 class="card-subtitle"><b>N° Téléphone:</b> {{ p.tel }} </h5>
-                                    <h5 class="card-subtitle"><b>N° Assurance:</b> {{ p.assurance }}</h5>
-                                    <h5 class="card-subtitle"><b>N° Sécurité sociale:</b> 
-                                        {{ p.securiteSociale }}</h5>
-                                    <div class="modal-footer">
-                                        <button class="btn btn-success" type="button"> 
-                                            <a href="{% url "dashboard:editPatient" pk=p.id %}"> Modifier </a> 
-                                        </button>
-                                    </div>
-
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Column -->
-                    <!-- Column -->
-                    <div class="col-lg-8 col-xlg-9 col-md-7">
-                        <div class="card">
-                            <div class="card-block">
-                                <center class="m-t-30"> 
-                                    <h2 class="card-title m-t-10">Antécédants</h2>
-                                </center>
-                                {% for a in antecedant %}
-                                   <h5 class="card-subtitle"><b>Nature: {{ a.nature }}</b> </h5>
-                                   <h5 class="card-subtitle"><b>Description: {{ a.description }}</b> </h5>
-                                   <br />
-                                {% endfor %}
-                                   <div class="modal-footer">
-                                        <button class="btn btn-inverse" type="button"> <a href="{% url "dashboard:nouvelAntecedant" pk=p.id %}"> Ajouter </a> </button>
-                                
-                                    </div>
-                            </div>
-                            
-                            <div class="card">
-                            <div class="card-block">
-                                <center class="m-t-30"> 
-                                    <h2 class="card-title m-t-10">Historique des Consultations</h2>
-                                </center>
-                                   <h5 class="card-subtitle"><b>Consultation du:</b> <a href="">None</a> </h5>
-                                   <div class="modal-footer">
-                                        <button class="btn btn-success" type="button"> 
-                                            <a href=""> Consulter </a></button>
-                                    
-                                    </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <!-- Column -->
-                </div>
-                <!-- Row -->
-                <!-- ============================================================== -->
-                <!-- End PAge Content -->
-                <!-- ============================================================== -->
+<!-- ============================================================== -->
+<div class="page-wrapper">
+<!-- ============================================================== -->
+<!-- Container fluid  -->
+<!-- ============================================================== -->
+<div class="container-fluid">
+<!-- ============================================================== -->
+<!-- Bread crumb and right sidebar toggle -->
+<!-- ============================================================== -->
+<div class="row page-titles">
+   <div class="col-md-6 col-8 align-self-center">
+      <h3 class="text-themecolor m-b-0 m-t-0">Patient</h3>
+      <ol class="breadcrumb">
+         <li class="breadcrumb-item"><a href="javascript:void(0)">Dossiers</a></li>
+         <li class="breadcrumb-item active">Information(s) Patient</li>
+      </ol>
+   </div>
+</div>
+<!-- ============================================================== -->
+<!-- End Bread crumb and right sidebar toggle -->
+<!-- ============================================================== -->
+<!-- ============================================================== -->
+<!-- Start Page Content -->
+<!-- ============================================================== -->
+<!-- Row -->
+<div class="row">
+   <!-- Column -->
+   <div class="col-lg-4 col-xlg-3 col-md-5">
+      <div class="card">
+         <div class="card-block">
+            <center class="m-t-30">
+               <h2 class="card-title m-t-10">Fiche du patient</h2>
+            </center>
+            <h5 class="card-subtitle"><b>Prénom:</b> {{ p.prenom}}</h5>
+            <h5 class="card-subtitle"><b>Nom: </b>{{ p.nom }}</h5>
+            <h5 class="card-subtitle"><b>Date de naissance:</b> {{ p.dateNaiss }}</h5>
+            <h5 class="card-subtitle"><b>Adresse:</b> {{ p.adresse }}</h5>
+            <h5 class="card-subtitle"><b>Profession:</b> {{ p.profession }}</h5>
+            <h5 class="card-subtitle"><b>Situation Matrimoniale:</b> 
+               {{ p.situationMatr }}
+            </h5>
+            <h5 class="card-subtitle"><b>N° Téléphone:</b> {{ p.tel }} </h5>
+            <h5 class="card-subtitle"><b>N° Assurance:</b> {{ p.assurance }}</h5>
+            <h5 class="card-subtitle"><b>N° Sécurité sociale:</b> 
+               {{ p.securiteSociale }}
+            </h5>
+            <div class="modal-footer">
+               <button class="btn btn-success" type="button"> 
+               <a href="{% url "dashboard:editPatient" pk=p.id %}"> Modifier </a> 
+               </button>
             </div>
-            <!-- ============================================================== -->
-            <!-- End Container fluid  -->
-            <!-- ============================================================== -->
-            <!-- ============================================================== -->
-            <!-- footer -->
+         </div>
+      </div>
+   </div>
+   <!-- Column -->
+   <!-- Column -->
+   <div class="col-lg-8 col-xlg-9 col-md-7">
+      <div class="card">
+         <div class="card-block">
+            <center class="m-t-30">
+               <h2 class="card-title m-t-10">Antécédants</h2>
+            </center>
+            <div id="listeAntecedant" class="card-block">
+               {% for a in antecedant %}
+               <h5 class="card-subtitle"><b>Nature: {{ a.nature }}</b> </h5>
+               <h5 class="card-subtitle"><b>Description: {{ a.description }}</b> </h5>
+               <br /> 
+            {% endfor %}
+            </div>
 
+            <div class="modal-footer">
+               <button type="button" class="btn btn-info" data-toggle="modal" data-target="#modal-body"> Ajouter </button>       
+            </div>
+         </div>
+
+         <div class="modal fade" id="modal-body">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title" id="exampleModalLabel">Nouvel Antécédent</h5>
+                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                     <span aria-hidden="true">&times;</span>
+                     </button>
+                  </div>
+                  <div class="modal-body">
+                     <form>
+                        <div class="form-group">
+                           <label for="modalNature">Nature: </label>
+                           <input type="text" class="form-control" id="natureAntecedant">
+                        </div>
+                        <div class="form-group">
+                           <label for="modalDescription">Description: </label>
+                           <input type="text" class="form-control" id="modalDescription">
+                        </div>
+                        <div class="form-group">
+                           <label for="modalPatient">Patient</label>
+                           <input type="text" class="form-control" id="modalPatient" value='{{p.prenom}} {{p.nom}}' disabled>
+                        </div>
+                     </form>
+                  </div>
+                  <div class="modal-footer">
+                     <button type="button" class="btn btn-secondary" data-dismiss="modal">Annuler</button>
+                     <button type="button" class="btn btn-primary" id="nouvelAntecedant">Enregistrer</button>
+                  </div>
+               </div>
+            </div>
+         </div>
+
+         <div class="card">
+            <div class="card-block">
+               <center class="m-t-30">
+                  <h2 class="card-title m-t-10">Historique des Consultations</h2>
+               </center>
+               <h5 class="card-subtitle"><b>Consultation du:</b> <a href="">None</a> </h5>
+               <div class="modal-footer">
+                  <button class="btn btn-success" type="button"> 
+                  <a href=""> Consulter </a></button>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Column -->
+   </div>
+   <!-- Row -->
+   <!-- ============================================================== -->
+   <!-- End PAge Content -->
+   <!-- ============================================================== -->
+</div>
+<!-- ============================================================== -->
+<!-- End Container fluid  -->
+<!-- ============================================================== -->
+<!-- ============================================================== -->
+<!-- footer -->
+<script src="{% static "dashboard/assets/plugins/jquery/jquery.min.js" %}"></script>
+<script type="text/javascript">
+
+$("#nouvelAntecedant").click(function () {
+   $.ajax({
+        url: '/dashboard/nouvelAntecedant',
+        data: {'idPatient': '{{p.id}}', 'modalNature': $('#natureAntecedant').val(), 'modalDescription': $('#modalDescription').val() },
+        dataType: 'json',
+        success: function (details) {
+         $('.close').click();
+          $("#listeAntecedant").append('<h5 class="card-subtitle"><b>Nature: '+details['nature']+'</b> </h5>'+
+               '<h5 class="card-subtitle"><b>Description: '+details['description']+'</b> </h5>');
+
+          }
+        });
+  });
+
+</script>
 {% endblock %}
